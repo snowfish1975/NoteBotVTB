@@ -1,0 +1,4796 @@
+ISIN;NAME;START;END;ACTIVES;CAPITAL;COUPON;COUPON_BARRIER;AUTOCALL;COMISSION;CUR;;STRIKES;CALLED
+XS1276939516;Russia;02.06.2016;23.06.2021;Russia CDS USD SR 5Y;100%, кредитный риск России;7,00%;нет;нет;;USD;;256,566;
+XS1373423083;"CLN ""Газпром""";25.10.2016;30.12.2026;GAZPRU CDS USD SR 10Y D14;100%, кред.риск Газпрома;4,05%;нет;нет;;USD;;343,455;
+XS1542024473;"CLN ""Газпром""";08.02.2017;10.01.2022;GAZPRU CDS USD SR 5Y D14;100%, кред.риск Газпрома;5,75%;нет;нет;;USD;;223,68;
+XS1535194044;;06.04.2017;20.04.2022;"China Mobile LTD
+Japan Tobacco Inc
+Samsung Electronics Co LTD
+Alibaba Group Holdings-SP ADR";100%;7,50%;100%;100%;;USD;;"85,5
+3689
+41600
+108,04";
+XS1637911451;"Нота БКС
+CLN на группу компаний";28.06.2017;30.06.2023;"Совкомфлот
+МТС
+ВТБ
+Вымпелком
+Русал
+Полюс";100%, кредитный риск группы компаний;6,00%;нет;нет;;USD;;"0
+0
+0
+0";
+XS1619620583;"CLN ""Газпром""";30.06.2017;11.07.2022;GAZPRU CDS USD SR 5Y D14;100%, кред.риск Газпрома;3,45%;нет;нет;;USD;;221,16;
+XS1642546581;CLN на пакет компаний;06.07.2017;31.10.2022;"ВТБ (XS0842078536)
+ВЭБ (XS0800817073)
+Газпромнефть (XS0830192711)
+РУСАЛ (XS1533921299)
+Полюс Золото (XS1405766384)
+Veon (XS0643183220)";100%, кредитный риск ряда компаний;5,50%;нет;нет;;USD;;"100
+100
+100
+100
+100
+100";
+XS1654213294;Нота БКС;27.07.2017;30.06.2023;"Совкомфлот
+МТС
+ВТБ
+Вымпелком
+Русал
+Полюс";100%, кредитный риск группы компаний;4,75%;нет;нет;;USD;;"0
+0
+0
+0";
+XS1672128243;;26.09.2017;11.10.2022;"Best Buy Co Inc
+Burlington Stores Inc
+Big Lots Inc
+Target Corp";60%;9,80%;60%;100%, далее -1,5% в кв.;;USD;;"54,64
+91,71
+51,18
+58,59";1
+XS1672128086;;26.09.2017;12.10.2022;"China Unicom Hong Kong LTD
+China Mobile LTD
+Telefonica SA
+Telecom Italia SPA
+Vodafone Group PLC";70%;10,00%;70%;100%, далее -1% в квартал cо 2-го кв.;;USD;;"11,18
+79,85
+8,974
+0,794
+208,5";
+XS1672128599;;27.09.2017;12.10.2022;"Tokyo Electron LTD
+Alps Alpine Co LTD
+Sony Corp
+Hitachi LTD
+Juniper Networks Inc";70%;8,00%;75%;100%, далее -0,5% в квартал;;USD;;"16860
+2836
+4074
+3911,5
+28,11";
+XS1678804870;;31.10.2017;17.11.2020;"Suez
+Veolia Environment
+Beijing Enterprises Water GR
+Guangdong Investment LTD";GearPut 75%;11,20%;80%;100% с 3-го кв.;;USD;;"15,10
+20,34
+6,6
+11,5";
+XS1631528350;;31.10.2017;09.11.2020;"Whirlpool Corp
+Tyson Foods Inc-CL A
+Halliburton Co
+Walt Disney Co";GearPut 75%;14,76%;80%;100% с 3-го кв.;;USD;;"163,93
+72,91
+42,74
+57,455";
+XS1680828511;;31.10.2017;17.11.2020;"Credit Agricole SA
+Unicredit SPA
+Intesa Sanpaolo
+Societe Generale SA";GearPut 70%;13,44%;80%;100% с 3-го кв.;;USD;;"14,98
+16,43
+2,886
+47,8";
+XS1680832893;;01.11.2017;08.11.2022;"BP PLC
+Conocophillips
+Total SA
+Exxon Mobil Corp";70%;12,20%;70%;100%;;USD;;"5,14
+52,1
+48,28
+83,87";
+XS1725104696;;18.12.2017;06.01.2021;"LG Display Co LTD
+Bayer AG-REG
+HP Inc
+Xerox Holdings Corp";GearPut 75%;15,40%;80%;100% с 3-го кв.;;USD;;"29400
+106,233
+21,29
+30,30";1
+XS1725141110;;24.01.2018;31.01.2023;"Applied Materials Inc
+Broadcom Inc
+Micron Technology Inc";65%;11,25%;75%;100%, далее -1% в квартал cо 2-го кв.;;USD;;"56,88
+256,86
+43,08";1
+XS1714895122;;16.02.2018;23.02.2021;"MGM Resorts International
+Wynn Resorts LTD
+SJM Holdings LTD
+Melco Resorts & Entertainment-CLASS ADR";GearPut 65%;11,40%;65%;100%, начиная со 2-го кв.;;USD;;"34,47
+164,28
+7,61
+28,14";1
+XS1719186188;;14.03.2018;29.03.2021;"MGM Resorts International
+Wynn Resorts LTD
+SJM Holdings LTD
+Melco Resorts & Entertainment-CLASS ADR";GearPut 65%;11,40%;65%;100%;;USD;;"35,69
+185,22
+7,35
+27,44";1
+XS1799164790;Нота БКС;27.03.2018;03.04.2021;"Apple Inc
+Delta Air Lines Inc
+Sberbank PJSC-SPONSORED ADR
+Unicredit SPA
+Tesla Inc";60%;10,00%;60%;100%;;USD;;"0
+0
+0
+0";
+XS1774735291;;29.03.2018;30.03.2020;"LG Display Co LTD
+Adidas AG
+Bayer AG-REG
+HP Inc";55%;9,36%;нет;100%;;USD;;"26150
+196,65
+91,79
+21,92";
+XS1714996581;;11.04.2018;19.04.2021;"HP Inc
+Bayer AG-REG
+Adidas AG
+LG Display Co LTD";GearPut 70%;13,52%;70%;100%;;USD;;"21,59
+97
+206,5
+25100";1
+XS1797487201;;20.04.2018;27.04.2021;"HP Inc
+Bayer AG-REG
+Adidas AG
+LG Display Co LTD";GearPut 70%;12,40%;70%;100%;;USD;;"21,53
+99,00
+212,20
+24900";1
+XS1797499479;;08.05.2018;19.05.2021;"Adidas AG
+Logitech International-REG
+Norsk Hydro ASA
+Unicredit SPA";GearPut 70%;12,50%;70%;100% начиная со 2-го кв.;;USD;;"193,60
+40,39
+48,64
+17,326";1
+XS1795296703;;17.05.2018;31.05.2021;"Unicredit SPA
+Logitech International-REG
+Norsk Hydro ASA
+Adidas AG";GearPut 70%;12,80%;70%;100%, начиная со 2-го кв.;;USD;;"16,682
+40,81
+51,30
+195,25";1
+XS1795292629;;17.05.2018;31.05.2021;"Unicredit SPA
+Logitech International-REG
+Norsk Hydro ASA
+Adidas AG";GearPut 70%;8,60%;70%;100%, начиная со 2-го кв.;;EUR;;"16,682
+40,81
+51,30
+195,25";1
+XS1741749037;;17.05.2018;17.05.2023;"Anglo American PLC
+ArcelorMittal SA
+Steel Dynamics Inc
+Teck Resources LTD";GearPut 65%;13,00%;65%;100% далее -0,75% в кв.;;USD;;"0
+0
+0
+0";1
+XS1763340459;;24.05.2018;09.06.2021;"Alcoa Corp
+Aluminum Corp of China LTD-H
+Norsk Hydro ASA";GearPut 70%;12,60%;70%;100% со 2-го кв.;;USD;;"47,93
+4,15
+50,12";1
+XS1763341341;;30.05.2018;15.06.2021;"Micron Technology Inc
+Western Digital Corp
+Microsoft Corp
+Apple Inc";GearPut 65%;17,00%;80%;100% с 3-го кв.;;USD;;"62,57
+86,53
+98,95
+187,50";
+XS1763343636;;04.06.2018;08.06.2021;"Alcoa Corp
+Aluminum Corp of China LTD-H
+Norsk Hydro ASA";GearPut 70%;12,60%;70%;100% со 2-го кв.;;USD;;"47,64
+4,20
+52";
+XS1763343719;;04.06.2018;08.06.2021;"Alcoa Corp
+Aluminum Corp of China LTD-H
+Norsk Hydro ASA";GearPut 70%;8,40%;70%;100% со 2-го кв.;;EUR;;"47,64
+4,20
+52";
+XS1715679475;;05.06.2018;14.06.2021;"Unicredit SPA
+Bayer AG-REG
+HP Inc
+Adidas AG";70%;12,00%;нет;100%;;USD;;"14,05
+99,492
+23,42
+196,4";
+XS1796184353;;07.06.2018;21.06.2021;"Intel Corp
+Micron Technology Inc
+Activision Blizzard Inc
+Take-Two Interactive Software Inc";GearPut 60%;12,60%;70%;100%, далее -2% в квартал;;USD;;"55,88
+59,63
+73,95
+113,42";1
+XS1796172937;;08.06.2018;28.06.2018;"Intel Corp
+Micron Technology Inc
+Activision Blizzard Inc
+Take-Two Interactive Software Inc";GearPut 60%;14,10%;70%;100%, далее -2% в квартал;;RUB;;"55,05
+61,39
+74,29
+113,42";
+CH0419404972;"CLN ""Газпром"", условный купон на EuroStoxx 50";13.06.2018;21.06.2021;Euro Stoxx 50 Pr;100%, кред.риск Газпрома;6,10%;100%;нет;1,0%;USD;;3479,56;
+CH0419405144;;14.06.2018;28.06.2021;"Adidas AG
+Bayer AG-REG
+HP Inc
+Unicredit SPA";70%;11,40%;нет;100%;;USD;;"198,75
+100,8
+23,8
+14,52";
+XS1796176094;;14.06.2018;28.06.2021;"Intel Corp
+Micron Technology Inc
+Activision Blizzard Inc
+Take-Two Interactive Software Inc";GearPut 60%;8,51%;70%;100%, далее -2%;;EUR;;"55,54
+59,18
+77,71
+121,84";1
+XS1837232435;;28.06.2018;13.07.2021;"Unicredit SPA
+Bayer AG-REG
+Adidas AG
+HP Inc";70%;10,32%;нет;100%;;EUR;;"14,074
+94,27
+184
+22,67";
+XS1837222048;;28.06.2018;13.07.2021;"Unicredit SPA
+Bayer AG-REG
+Adidas AG
+HP Inc";70%;12,52%;нет;100%;;USD;;"14,074
+94,27
+184
+22,67";
+XS1837231031;;28.06.2018;13.07.2021;"Unicredit SPA
+Bayer AG-REG
+Adidas AG
+HP Inc";70%;14,40%;нет;100%;;RUB;;"14,074
+94,27
+184
+22,67";
+CH0416714993;;05.07.2018;20.07.2021;"Samsung Electronics Co LTD
+Tata Motors LTD-SPON ADR
+Tencent Holdings LTD
+Wynn Resorts LTD";GearPut 65%;11,50%;75%;100%;;USD;;"44900
+19,33
+386,60
+154,84";
+XS1840786948;;09.07.2018;23.07.2021;"Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc
+NVidia Corp";GearPut 65%;19,00%;75%;понижающийся барьер;;USD;;"204,74
+54,31
+418,97
+249,25";1
+CH0419405292;;12.07.2018;26.07.2021;"Wynn Resorts LTD
+Tata Motors LTD-SPON ADR
+Tencent Holdings LTD
+Samsung Electronics Co LTD";GearPut 65%;7,80%;75%;100%;;EUR;;"164,53
+19,5
+380
+45500";
+XS1804732201;;12.07.2018;26.07.2021;"Wynn Resorts LTD
+Tata Motors LTD-SPON ADR
+Tencent Holdings LTD
+Samsung Electronics Co LTD";GearPut 65%;12,40%;75%;100%;;USD;;"164,53
+19,5
+380
+45500";
+XS1804732383;;12.07.2018;26.07.2021;"Wynn Resorts LTD
+Tata Motors LTD-SPON ADR
+Tencent Holdings LTD
+Samsung Electronics Co LTD";GearPut 65%;13,80%;75%;100%;;RUB;;"164,53
+19,5
+381
+46500";
+XS1804733431;;17.07.2018;02.08.2021;"Intel Corp
+Micron Technology Inc
+Activision Blizzard Inc
+Take-Two Interactive Software Inc";GearPut 60%;13,01%;70%;100%, далее -2% в квартал;;USD;;"51,75
+56,96
+80,95
+126,68";
+XS1853972112;;19.07.2018;02.08.2021;"Siemens AG-REG
+Thyssenkrupp AG
+Nintendo Co LTD
+Boeing Co";70%;11,16%;нет;100%;;USD;;"117,98
+22,54
+37320
+355,33";
+XS1842006519;;23.07.2018;30.07.2021;"Wynn Resorts LTD
+Tencent Holdings LTD
+Tata Motors LTD-SPON ADR
+Samsung Electronics Co LTD";GearPut 65%;12,08%;75%;100%;;USD;;"163,74
+375,2
+18,59
+46150";
+CH0425742407;;25.07.2018;09.08.2021;"Applied Materials Inc
+Broadcom Inc
+Lam Research Corp
+Micron Technology Inc";85%;12,00%;100%, далее -1% в квартал;100%;;USD;;"45,96
+225,97
+172,80
+53,39";1
+XS1853980487;;26.07.2018;09.08.2021;"Siemens AG-REG
+Nintendo Co LTD
+Boeing Co
+Thyssenkrupp AG";70%;8,60%;нет;100%;;EUR;;"120,38
+37900
+359,32
+23,45";
+XS1853978317;;26.07.2018;09.08.2021;"Siemens AG-REG
+Nintendo Co LTD
+Boeing Co
+Thyssenkrupp AG";70%;13,06%;нет;100%;;RUB;;"120,38
+37900
+359,32
+23,45";
+XS1853975560;;26.07.2018;09.08.2021;"Siemens AG-REG
+Nintendo Co LTD
+Boeing Co
+Thyssenkrupp AG";70%;11,08%;нет;100%;;USD;;"120,38
+37900
+359,32
+23,45";
+XS1853958715;;31.07.2018;16.08.2021;"Boeing Co
+Siemens AG-REG
+Nintendo Co LTD
+Thyssenkrupp AG";GearPut 74%;8,00%;нет;100% начиная со 2-го кв.;;USD;;"356,30
+120,76
+39100
+22,82";
+XS1853953914;;08.08.2018;23.08.2021;"Nintendo Co LTD
+Boeing Co
+Siemens AG-REG
+Thyssenkrupp AG";100%;13,00%;100%;99% со 2-го кв., далее -1% в кв.;;RUB;;"37400
+347,78
+112
+21,46";
+XS1840812298;;08.08.2018;23.08.2023;"Nintendo Co LTD
+Boeing Co
+Siemens AG-REG
+Thyssenkrupp AG";100%;10,00%;100%, последний год 95%;100%, последний год 95%;;USD;;"37400
+347,78
+112
+21,46";
+XS1853954219;;09.08.2018;23.08.2021;"Orange
+Verizon Communications Inc
+Deutsche Telecom AG-REG
+Telenor ASA";GearPut 60%;12,00%;70%;98% далее -2%;;USD;;"14,475
+53,01
+14,28
+160,95";1
+CH0425743116;;30.08.2018;07.09.2021;"Alibaba Group Holdings-SP ADR
+Baidu Inc-SPON ADR
+Petrochina Co LTD-H
+Taiwan Semiconductor-SP ADR";GearPut 60%;12,48%;70%;98%, далее -2% в кв. с 2-го кв.;;USD;;"174,6
+224,25
+5,84
+43,46";
+XS1864007049;Азия;06.09.2018;20.09.2021;"Alibaba Group Holdings-SP ADR
+Baidu Inc-SPON ADR
+Petrochina Co LTD-H
+Taiwan Semiconductor-SP ADR";GearPut 60%;13,44%;70%;98%, далее -2% в кв. с 2-го кв.;;USD;;"159,87
+215,05
+5,80
+44,05";
+XS1877204518;;13.09.2018;27.09.2021;"Altria Group Inc
+General Motors Co
+Macy's Inc
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";65%;12,60%;нет;100%;;USD;;"61,46
+34,25
+35,74
+68,92";
+CH0425743157;;17.09.2018;01.10.2021;"Altria Group Inc
+Dupont De Nemours Inc
+General Motors Co
+Macy's Inc";GearPut 65%;9,80%;нет;98%, далее -2% в кв. с 2-го кв.;0,5%;EUR;;"62,44
+97,917
+35,02
+35,16";
+XS1715704760;;19.09.2018;04.10.2021;"General Motors Co
+HP Inc
+Xerox Holdings Corp
+0,33*Dow Inc + 0,47*Dupont";GearPut 75%;14,40%;80%;100% с 3-го кв.;;USD;;"35,73
+25,26
+28,28
+68,73";
+XS1858847913;;19.09.2018;04.10.2021;"Discovery Inc-CLASS A
+Halliburton Co
+Tyson Foods Inc-CL A
+Whirlpool Corp";GearPut 75%;18,00%;80%;100% с 3-го кв.;;USD;;"32,05
+40,06
+61,56
+122,97";
+CH0425742936;;19.09.2018;04.10.2021;"Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc
+NVidia Corp";GearPut 65%;18,50%;75%;понижающийся барьер;;USD;;"163,06
+45,06
+366,96
+271,98";1
+XS1877186194;;20.09.2018;04.10.2021;"Macy's Inc
+Altria Group Inc
+General Motors Co
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";65%;12,68%;нет;92%;;USD;;"35,18
+62,26
+36,08
+70,03";
+XS1877183928;;20.09.2018;04.10.2021;"Macy's Inc
+Altria Group Inc
+General Motors Co
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";65%;14,60%;нет;92%;;RUB;;"35,18
+62,26
+36,08
+70,03";
+XS1877188489;;20.09.2018;04.10.2021;"Macy's Inc
+Altria Group Inc
+General Motors Co
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";65%;10,00%;нет;92%;;EUR;;"35,18
+62,26
+36,08
+70,03";
+XS1815456154;;20.09.2018;04.10.2021;"Dupont De Nemours Inc
+Macy's Inc
+Altria Group Inc
+General Motors Co";GearPut 62,5%;6,00%;нет;90%;;EUR;;"99,639
+35,18
+62,26
+36,08";
+XS1877187325;;28.09.2018;15.10.2021;"Macy's Inc
+Altria Group Inc
+General Motors Co
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";65%;12,76%;нет;92%;;USD;;"34,73
+60,31
+33,67
+64,31";
+XS1877180825;;02.10.2018;18.10.2021;"Macy's Inc
+Altria Group Inc
+General Motors Co
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";GearPut 68%;12,00%;нет;92%;;RUB;;"33,03
+61,29
+33,30
+64,82";
+XS1877183415;;02.10.2018;18.10.2021;"Wynn Resorts LTD
+Adidas AG
+Samsung Electronics Co LTD
+Tata Motors LTD-SPON ADR";;2,9% + условный 10%;100%;100%;;RUB;;"123,81
+213,2
+44700
+15,52";1
+XS1890042739;;03.10.2018;18.10.2023;"Macy's Inc
+Altria Group Inc
+General Motors Co
+0,33*DOW Inc + 0,33*Dupont + 0,33*Corteva +0,188 USD Cash";100%;10,40%;100%, последний год 95%;100%, последний год 95%;;USD;;"33,40
+60,86
+34
+64,39";
+XS1890042499;;04.10.2018;18.10.2021;"X5 Retail Group-REGS GDR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+Mobile Telesystems-SP ADR";GearPut 65%;16,01%;70%;100%;;RUB;;"21,18
+27,20
+11,56
+8,39";1
+XS1890034397;;04.10.2018;18.10.2021;"X5 Retail Group-REGS GDR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+Mobile Telesystems-SP ADR";GearPut 65%;9,41%;70%;100%;;EUR;;"21,18
+27,20
+11,56
+8,39";1
+XS1890038547;;04.10.2018;18.10.2021;"X5 Retail Group-REGS GDR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+Mobile Telesystems-SP ADR";GearPut 65%;14,21%;70%;100%;;USD;;"21,18
+27,20
+11,56
+8,39";1
+CH0434913882;;11.10.2018;19.10.2021;"Continental AG
+AP Moller-Maersk A/S-B
+Ford Motor Co
+Marathon Oil Corp";65%;12,00%;нет;98%, далее -2% в кв. с 2-го кв.;;USD;;"137
+7215,759
+8,81
+19,96";
+XS1890023432;;18.10.2018;01.11.2021;"Continental AG
+AP Moller-Maersk A/S-B
+Ford Motor Co
+Marathon Oil Corp";65%;15,60%;нет;94%;;RUB;;"137,75
+7429,321
+8,51
+20,55";
+XS1890020255;Мировые лидеры;18.10.2018;01.11.2021;"Continental AG
+AP Moller-Maersk A/S-B
+Ford Motor Co
+Marathon Oil Corp";65%;12,80%;нет;94%;;EUR;;"137,75
+7429,321
+8,51
+20,55";
+XS1890019919;;18.10.2018;01.11.2021;"Continental AG
+AP Moller-Maersk A/S-B
+Ford Motor Co
+Marathon Oil Corp";65%;12,80%;нет;94%;;USD;;"137,75
+7429,321
+8,51
+20,55";
+XS1892856128;Нота БКС;18.10.2018;09.11.2021;"Bayerische Motoren Werke AG
+Ford Motor Co
+Renault SA
+Geely Automobile Holdings Ltd";70%;11,00%;70%;100%;;EUR;;"0
+0
+0
+0";
+CH0425743066;;25.10.2018;25.10.2021;"Facebook Inc-CLASS A
+Netflix INC
+NVidia Corp
+Western Digital Corp";GearPut 65%;9,00%;нет;100%;;USD;;"150,95
+312,87
+207,84
+54,01";1
+XS1890012237;;01.11.2018;01.11.2021;"Facebook Inc-CLASS A
+Netflix Inc
+NVidia Corp
+Western Digital Corp";GearPut 65%;13,80%;нет;97%, далее -3% в кв.;;RUB;;"151,75
+317,38
+218,11
+47,08";1
+XS1874770693;;01.11.2018;01.11.2021;"Facebook Inc-CLASS A
+Netflix Inc
+NVidia Corp
+Western Digital Corp";GearPut 65%;9,00%;нет;97%, далее -3% в кв.;;EUR;;"151,75
+317,38
+218,11
+47,08";1
+XS1874770776;;01.11.2018;01.11.2021;"Facebook Inc-CLASS A
+Netflix Inc
+NVidia Corp
+Western Digital Corp";GearPut 65%;9,00%;нет;97%, далее -3% в кв.;;USD;;"151,75
+317,38
+218,11
+47,08";1
+CH0446938166;Кредитный риск РФ и участие в росте худшего актива;14.11.2018;20.12.2021;"Altria Group Inc
+Dupont De Nemours Inc
+General Motors Co
+Macy's Inc";;1,00%;;;;USD;;"59,1
+82,494
+35,23
+33,22";
+CH0440227335;;15.11.2018;15.11.2021;"Deutsche Post AG-REG
+Schneider Electric SE
+Unicredit SPA
+Tyson Foods Inc-CL A";GearPut 65%;9,20%;нет;100%;;CHF;;"28,46
+64,36
+10,994
+59,03";1
+XS1902434270;;15.11.2018;15.11.2021;"Deutsche Post AG-REG
+Schneider Electric SE
+Unicredit SPA
+Tyson Foods Inc-CL A";65%;14,70%;нет;100%;;RUB;;"28,46
+64,36
+10,994
+59,03";1
+XS1849218554;;15.11.2018;15.11.2021;"Deutsche Post AG-REG
+Schneider Electric SE
+Unicredit SPA
+Tyson Foods Inc-CL A";65%;11,00%;нет;100%;;EUR;;"28,46
+64,36
+10,994
+59,03";1
+XS1849218471;;15.11.2018;15.11.2021;"Deutsche Post AG-REG
+Schneider Electric SE
+Unicredit SPA
+Tyson Foods Inc-CL A";65%;11,00%;нет;100%;;USD;;"28,46
+64,36
+10,994
+59,03";1
+XS1902421707;;28.11.2018;13.12.2021;"AP Moller-Maersk A/S-B
+Marathon Oil Corp
+Ford Motor Co
+Continental AG";100%;16,00%;100%, далее -1% в квартал;100%, далее -1% в квартал cо 2-го кв.;;RUB;;"8351,86
+16,49
+9,41
+132,05";
+CH0446940105;;28.11.2018;05.12.2023;"AP Moller-Maersk A/S-B
+Marathon Oil Corp
+Ford Motor Co
+Continental AG";100%;10,55%;100%, последний год 95%;100%, последний год 95%;;USD;;"8351,86
+16,49
+9,41
+132,05";
+XS1902423828;;29.11.2018;13.12.2021;"Chipotle Mexican Grill Inc
+Caterpillar Inc
+Freeport-McMoran Inc
+The Mosaic Co";"GearPut 65% 
+StarEffect 115%";11,50%;70%;98%, далее -2% в кв. с 2-го кв.;;USD;;"482,56
+130,23
+11,82
+36,17";1
+XS1902423745;;29.11.2018;13.12.2021;"Chipotle Mexican Grill Inc
+Caterpillar Inc
+Freeport-McMoran Inc
+The Mosaic Co";"GearPut 65% 
+StarEffect 115%";15,50%;70%;98%, далее -2% в кв. с 2-го кв.;;RUB;;"482,56
+130,23
+11,82
+36,17";1
+XS1893981743;;04.12.2018;06.12.2021;"Airbus SE
+Electrolux AB-SER B
+Hugo Boss AG-ORD
+Tapestry Inc";65%;11,40%;нет;с 3-го кв 96%, далее -2% в кв.;;USD;;"94,27
+208,5
+60,8
+38,22";
+XS1893973054;;06.12.2018;06.12.2021;"AP Moller-Maersk A/S-B
+Marathon Oil Corp
+Ford Motor Co
+Continental AG";100%;16,50%;100%;100%, далее -1% в квартал cо 2-го кв.;;RUB;;"7667,396
+16,22
+9,02
+124,80";
+CH0450757924;;10.12.2018;17.12.2020;"Alcoa Corp
+Aluminum Corp of China LTD-H";65%;13,15%;нет;100%;;USD;;"28,32
+2,68";1
+XS1728675452;;13.12.2018;28.12.2021;"Airbus SE
+Electrolux AB-SER B
+Hugo Boss AG-ORD
+Tapestry Inc";65%;11,92%;нет;100%;;EUR;;"89,97
+198,2
+58
+34,83";
+XS1902413274;;13.12.2018;11.01.2022;"Airbus SE
+Electrolux AB-SER B
+Hugo Boss AG-ORD
+Tapestry Inc";65%;16,00%;нет;100%;;RUB;;"89,97
+165,997
+58
+34,83";
+XS1728675536;;13.12.2018;28.12.2021;"Airbus SE
+Electrolux AB-SER B
+Hugo Boss AG-ORD
+Tapestry Inc";65%;11,92%;нет;100%;;USD;;"89,97
+165,997
+58
+34,83";
+XS1833629253;"Нота БКС
+CLN на группу компаний";17.12.2018;11.12.2023;"Anglogold Ashanti-SPON ADR
+Anglo American PLC
+Ford Motor Co
+Cysco Systems Inc
+Arconic Inc
+Thyssenkrupp AG";100%, кредитный риск группы компаний;8,00%;нет;нет;;USD;;"0
+0
+0
+0";
+CH0440227400;;24.01.2019;24.01.2022;"Daimler AG-Registered Shares
+Stellantis NV
+General Motors Co
+Renault SA";65%;12,75%;нет;98%, далее -2% в кв. с 2-го кв.;;USD;;"51,09
+11,481
+38,16
+58,3";
+CH0440227418;;24.01.2019;31.01.2022;"American Airlines Group
+Delta Air Lines Inc
+Deutsche Lufthansa-REG
+United Airlines Holdings Inc";GearPut 70%;16,00%;70%;100%;;USD;;"33,66
+47,52
+21,93
+84,03";
+XS1923317140;Глобальные лидеры;30.01.2019;31.01.2022;"Airbus SE
+Electrolux AB-SER B
+Hugo Boss AG-ORD
+Tapestry Inc";100%;20,20%;100%-1% в квартал;100%, далее -1% в квартал cо 2-го кв.;;RUB;;"99,0
+213,8
+63,50
+38,38";
+XS1874592220;;30.01.2019;13.02.2024;"Airbus SE
+Electrolux AB-SER B
+Hugo Boss AG-ORD
+Tapestry Inc";100%;12,10%;100%, последний год 95%;100%, последний год 95%;;USD;;"99
+213,8
+63,5
+38,38";
+CH0456765178;;31.01.2019;31.01.2022;"Daimler AG-Registered Shares
+Stellantis NV
+General Motors Co
+Renault SA";65%;10,50%;нет;98%, далее -2% в кв. с 2-го кв.;;EUR;;"51,66
+11,771
+39,02
+61,85";
+XS1923324351;;31.01.2019;31.01.2022;"Daimler AG-Registered Shares
+Stellantis NV
+General Motors Co
+Renault SA";65%;15,10%;нет;98%, далее -2% в кв. с 2-го кв.;;RUB;;"51,66
+11,771
+39,02
+61,85";
+XS1944446308;;01.02.2019;15.02.2022;"Activision Blizzard Inc
+Freeport-McMoran Inc
+Micron Technology Inc
+Marathon Oil Corp";65%;15,30%;нет;100%, далее -2%, с 3-го кв.;;USD;;"46,01
+11,51
+39,6
+16";
+XS1934934594;;05.02.2019;18.02.2022;"Gazprom PJSC-SPON ADR
+Lukoil PJSC-SPON ADR
+Mobile Telesystems-SP ADR
+Novolipetsk Steel PJSC-GDR
+X5 Retail Group-REGS GDR";70%;19,22%;70%;100%, начиная с 9 мес.;;USD;;"4,954
+82,94
+8,4
+24,29
+26,98";
+XS1944435954;Reverse Convertible Sber;13.02.2019;;;;;;;1,0%;USD;;0;
+XS1944438388;"Нота с механизмом ""Lookback""";14.02.2019;01.03.2022;"Hewlett Packard Enterprise
+Target Corp
+Wells Fargo Co
+Marathon Petroleum";65%;10,76%;нет;понижающийся барьер;;USD;;"15,31
+72,03
+48,52
+57,5";1
+CH0456765186;;15.02.2019;15.02.2024;"Dupont De Nemours Inc
+Facebook Inc-CLASS A
+Marathon Oil Corp
+Micron Technology Inc
+NVidia Corp";GearPut 65%;10,00%;нет;100%;;USD;;"97,917
+162,5
+17,08
+41,99
+157,34";
+XS1913947120;;21.02.2019;07.03.2022;"Deutsche Lufthansa-REG
+United Airlines Holdings Inc
+Delta Air Lines Inc
+Easyjet PLC";GearPut 65%;14,88%;70%;98%, далее -2% в кв. с 2-го кв.;;USD;;"23,1
+88,84
+51,48
+1300";
+XS1944417465;;27.02.2019;28.02.2022;"Daimler AG-Registered Shares
+General Motors Co
+Renault SA
+Fiat Chrysler Automobiles NV";100%;17,20%;100%, далее -1% в квартал;100%, далее -1% в квартал cо 2-го кв.;;RUB;;"52,88
+40
+60,70
+11,752";
+XS1715904774;;27.02.2019;11.03.2022;"Activision Blizzard Inc
+Micron Technology Inc
+Marathon Oil Corp
+Freeport-McMoran Inc";"65%,
+StarEffect 115%";19,00%;75%;100% с 3-го кв.;;USD;;"41,96
+42,75
+16,67
+13,26";
+XS1955997009;;27.02.2019;12.03.2024;"Daimler AG-Registered Shares
+General Motors Co
+Renault SA
+Stellantis NV";100%;11,20%;100%, последний год 95%;100%, последний год 95%;;USD;;"52,88
+40
+60,7
+10,272";
+XS1948681033;;28.02.2019;14.03.2022;"Deutsche Lufthansa-REG
+United Airlines Holdings Inc
+Delta Air Lines Inc
+Easyjet PLC";GearPut 65%;10,40%;70%;100%;;EUR;;"22,45
+87,81
+49,58
+1227,50";
+XS1948681116;;28.02.2019;14.03.2022;"Deutsche Lufthansa-REG
+United Airlines Holdings Inc
+Delta Air Lines Inc
+Easyjet PLC";GearPut 65%;14,60%;70%;100%;;USD;;"22,45
+87,81
+49,58
+1227,50";
+XS1962579857;CLN Jaguar Land Rover;07.03.2019;30.12.2023;JAGLN CDS SR 5Y D14;100%, кред.риск Jaguar Land Rover;9,31%;нет;нет;1,0%;USD;;0;
+XS1913994122;;12.03.2019;28.03.2022;"Macy's Inc
+Broadcom Inc
+Abbvie Inc
+Alcoa Corp";GearPut 65%;13,80%;нет;100%;2,0%;USD;;"23,82
+269,63
+78,74
+28,44";
+XS1962464019;;14.03.2019;14.03.2022;"Shiseido Co LTD
+Pola Orbis Holdings Inc
+Capri Holdings LTD
+LVMH Moet Hennessy Louis Vuitton";65%;10,80%;нет;97%, далее -3% в кв.;2,0%;EUR;;"7754
+3450
+46,24
+315,6";1
+XS1962463987;;14.03.2019;14.03.2022;"Shiseido Co LTD
+Pola Orbis Holdings Inc
+Capri Holdings LTD
+LVMH Moet Hennessy Louis Vuitton";65%;13,10%;нет;97%, далее -3% в кв.;2,0%;USD;;"7754
+3450
+46,24
+315,6";1
+CH0467180532;"""Швейцарская лестница""";19.03.2019;26.06.2020;"Nestle SA-REG
+Novartis AG-REG
+Roche Holding AG-GENUSSCHEIN
+Zurich Insurance Group AG";95%;10,00%;90%;нет;2,0%;USD;;"94,6
+82,32
+270
+338,60";1
+XS1931188012;;21.03.2019;04.04.2022;"Macy's Inc
+Broadcom Inc
+Abbvie Inc
+Alcoa Corp";GearPut 65%;13,40%;нет;94%;2,0%;USD;;"24,03
+296,8
+81,24
+29,41";
+CH0467180342;;22.03.2019;29.03.2021;"Advanced Micro Devices Inc
+Micron Technology Inc
+Salesforce.com Inc
+Servicenow Inc
+Verizon Communications Inc";60%;22,26%;60%;94%;;EUR;;"26,37
+41,62
+161,5
+241,21
+59,76";1
+XS1952996764;Глобальные лидеры;27.03.2019;28.03.2024;"Nintendo Co LTD
+Airbus SE
+Caterpillar Inc
+EasyJet PLC";100%;14,10%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"30280
+116,88
+133,5
+1176";
+XS1964586892;;27.03.2019;11.04.2022;"Easyjet PLC
+Nintendo Co LTD
+Caterpillar Inc
+Airbus SE";100%;17,00%;100%, далее -1% в квартал;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"1157
+31350
+131,2
+115,48";
+XS1962487903;;27.03.2019;27.04.2024;"Easyjet PLC
+Nintendo Co LTD
+Caterpillar Inc
+Airbus SE";100%;13,12%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"1157
+31350
+131,2
+115,48";
+XS1958492693;;28.03.2019;11.02.2022;"Alcoa Corp
+Abbvie Inc
+Broadcom Inc
+Macy's Inc";GearPut 65%;15,86%;нет;94%;2,0%;RUB;;"27,99
+79,96
+299,07
+24,19";
+XS1962491095;;28.03.2019;11.04.2022;"Macy's Inc
+Broadcom Inc
+Abbvie Inc
+Alcoa Corp";GearPut 65%;13,48%;нет;97%, далее -3% в кв.;2,0%;USD;;"24,19
+299,07
+79,96
+27,99";
+XS1931249921;;28.03.2019;11.04.2022;"Macy's Inc
+Broadcom Inc
+Abbvie Inc
+Alcoa Corp";GearPut 65%;11,00%;нет;97%, далее -3% в кв.;2,0%;EUR;;"24,19
+299,07
+79,96
+27,99";
+XS1931268632;;01.04.2019;15.04.2022;"Alibaba Group Holdings-SP ADR
+Alphabet Inc-CL A
+Tencent Holdings LTD
+VISA Inc-CLASS A SHARES";GearPut 65%;6,60%;нет;97%;2,0%;USD;;"180,89
+1198,98
+365
+157,26";1
+XS1964610270;;09.04.2019;09.10.2019;Petroleo Brasileiro-SPON ADR;95%;18,00%;нет;нет;;USD;;16,39;
+XS1966192244;;10.04.2019;24.04.2024;"Alcoa Corp
+Abbvie Inc
+Freeport-McMoran Inc
+Macy's Inc";100%;13,25%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"29,15
+82,95
+13,49
+24,76";
+XS1957124099;;11.04.2019;18.04.2024;"BP PLC
+Gazprom PJSC-SPON ADR
+Petroleo Brasileiro-SPON ADR
+Total SA";GearPut 65%;15,04%;75%;100%;2,0%;USD;;"572,6
+4,87
+16,47
+50,08";
+XS1957129130;;11.04.2019;18.04.2024;"BP PLC
+Gazprom PJSC-SPON ADR
+Petroleo Brasileiro-SPON ADR
+Total SA";GearPut 65%;11,24%;75%;100%;2,0%;EUR;;"572,6
+4,87
+16,47
+50,08";
+CH0467180433;;17.04.2019;17.04.2024;"Alibaba Group Holdings-SP ADR
+Alphabet Inc-CL A
+Tencent Holdings LTD
+VISA Inc-CLASS A SHARES";70%;25,00%;100%;100% с 3-го кв.;3,0%;USD;;"187,55
+1240,14
+389
+160,44";1
+XS1931392481;;18.04.2019;29.04.2022;"Ralph Lauren Corp
+CISCO Systems Inc
+BlackRock Inc
+TUI AG-DI";GearPut 65%;10,32%;нет;97%;2,0%;USD;;"131,1
+56,4
+465,69
+9,78";
+CH0474522296;;24.04.2019;29.04.2024;"Airbus SE
+Caterpillar Inc
+Easyjet PLC
+Nintendo Co LTD";100%;11,66%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"112,2
+137,73
+1174
+38000";
+XS1971411662;;24.04.2019;24.04.2024;"Freeport-McMoran Inc
+Macy's Inc
+Alcoa Corp
+Abbvie Inc";100%;13,00%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"13,58
+25,05
+28,12
+78,67";
+XS1971416208;;25.04.2019;25.04.2022;"BlackRock Inc
+Ralph Lauren Corp
+TUI AG-DI
+Cisco Systems Inc";GearPut 65%;8,44%;нет;97%, далее -3% в кв.;2,0%;EUR;;"474,45
+129,73
+9,83
+56,33";
+XS1971415739;;25.04.2019;25.04.2022;"BlackRock Inc
+Ralph Lauren Corp
+TUI AG-DI
+Cisco Systems Inc";GearPut 65%;10,56%;нет;97%, далее -3% в кв.;2,0%;USD;;"474,45
+129,73
+9,83
+56,33";
+XS1980031741;;25.04.2019;25.04.2022;"BlackRock Inc
+Ralph Lauren Corp
+TUI AG-DI
+Cisco Systems Inc";GearPut 65%;12,21%;нет;97%, далее -3% в кв.;2,0%;RUB;;"474,45
+129,73
+9,83
+56,33";
+XS1980047408;;29.04.2019;25.04.2022;"Freeport-McMoran Inc
+Macy's Inc
+Alcoa Corp
+Abbvie Inc";100%;16,00%;100%;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"13,58
+25,05
+28,12
+78,67";
+XS1968508728;;29.04.2019;06.05.2022;"Macy's Inc
+Freeport-McMoran Inc
+Micron Technology Inc
+Skyworks Solutions Inc";100%;19,40%;100%-1% в квартал;100%, далее -1% в кв, с 4-го кв.;2,0%;RUB;;"24,09
+12,43
+42,11
+86,80";
+XS1990929280;CLN Jaguar Land Rover;29.04.2019;30.06.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;5,85%;нет;нет;2,0%;EUR;;0;
+CH0474522304;Не касаясь границ, TWIN WIN Tesla 160,37 / 356,95;29.04.2019;29.10.2020;Tesla Inc;100%;переменный, зависит от финальной цены актива;;;2,0%;USD;;258,66;1
+XS1945733084;;15.05.2019;15.04.2024;"Wirecard AG
+Bristol-Myers Squibb Co
+Micron Technology Inc
+TUI AG-DI";100%;13,00%;100%;100%, последний год 95%;4,0%;USD;;"138,7
+46,63
+38,41
+9,42";
+XS1969590683;;16.05.2019;15.05.2024;"Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+X5 Retail Group-REGS GDR";GearPut 51%;19,95%;98%, далее -1% в кв. с 3-го кв.;98%, далее -1% в кв. с 3-го кв.;2,0%;USD;;"24,56
+14,50
+30,7";1
+XS1969590501;;16.05.2019;15.05.2024;"Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+X5 Retail Group-REGS GDR";GearPut 65%;19,00%;98%, далее -1% в кв. с 3-го кв.;98%, далее -1% в кв. с 3-го кв.;2,0%;EUR;;"24,56
+14,50
+30,7";1
+XS1991378594;;16.05.2019;15.05.2024;"Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+X5 Retail Group-REGS GDR";GearPut 65%;23,00%;98%, далее -1% в кв. с 3-го кв.;98%, далее -1% в кв. с 3-го кв.;2,0%;RUB;;"24,56
+14,50
+30,7";1
+XS1986855267;;17.05.2019;24.05.2022;"BlackRock Inc
+Cisco Systems Inc
+Ralph Lauren Corp
+TUI AG-DI";GearPut 65%;11,10%;нет;97%, далее -3% в кв.;;USD;;"441,56
+56,35
+112,51
+9,466";1
+XS2000594338;;22.05.2019;23.05.2022;"L Brands Inc
+CF Industries Holdings Inc
+Skyworks Solutions Inc
+Discovery Inc-CLASS A";GearPut 65%;13,40%;нет;97%, далее -3% в кв.;;USD;;"21,50
+41,14
+68,54
+27,42";1
+XS2000600838;;23.05.2019;31.05.2022;"L Brands Inc
+CF Industries Holdings Inc
+Skyworks Solutions Inc
+Discovery Inc-CLASS A";GearPut 65%;13,40%;нет;97%;2,0%;USD;;"24,26
+40,50
+68,46
+27,24";1
+CH0478426601;"""Швейцарская лестница""";24.05.2019;24.02.2021;"Nestle SA-REG
+Novartis AG-REG
+Roche Holding AG-GENUSSCHEIN
+Zurich Insurance Group AG";95%;10,00%;90%;100%;2,0%;USD;;"99,00
+87,25
+271,2
+329,20";1
+XS2000597604;;28.05.2019;31.05.2022;"Advanced Micro Devices Inc
+Activision Blizzard Inc
+NVidia Corp
+Ubisoft Entertainment";GearPut 65%;14,40%;нет;97%, далее -3% в кв.;;RUB;;"29,03
+43,50
+143,33
+71,5";1
+XS1962210859;;29.05.2019;29.05.2024;"Micron Technology Inc
+Wirecard AG
+Bristol-Myers Squibb Co
+TUI AG-DI";100%;12,70%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"33,29
+150
+45,38
+8,316";
+XS2000585260;;29.05.2019;31.05.2022;"Micron Technology Inc
+Wirecard AG
+Bristol-Myers Squibb Co
+TUI AG-DI";100%;17,10%;100%, далее -1% в квартал;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"33,29
+150
+45,38
+8,316";
+XS2000589924;;30.05.2019;31.05.2022;"Discovery Inc-CLASS A
+Skyworks Solutions Inc
+L Brands Inc
+CF Industries Holdings Inc";GearPut 65%;13,10%;нет;97%, далее -3% в кв.;2,0%;USD;;"27,13
+68,27
+22,89
+40,59";1
+XS2000590005;;30.05.2019;31.05.2022;"Discovery Inc-CLASS A
+Skyworks Solutions Inc
+L Brands Inc
+CF Industries Holdings Inc";GearPut 65%;10,60%;нет;97%, далее -3% в кв.;2,0%;EUR;;"27,13
+68,27
+22,89
+40,59";1
+XS1987540058;;03.06.2019;03.06.2024;"Novolipetsk Steel PJSC-GDR
+X5 Retail Group-REGS GDR
+Sberbank PJSC-SPONSORED ADR";GearPut 65%;18,60%;80%;97%, далее -3% в кв. до 80%;2,5%;USD;;"26,40
+30,62
+15,08";1
+XS2006336288;;06.06.2019;06.06.2022;"Xilinx Inc
+Ciena Corp
+Nokia OYJ
+Lumentum Holdings Inc";"GearPut 65% 
+StarEffect 120%";16,00%;70%;97%, далее -3% в кв.;2,0%;USD;;"106,01
+45,49
+4,415
+44,44";
+XS2000586664;;06.06.2019;06.06.2022;"Discovery Inc-CLASS A
+Skyworks Solutions Inc
+L Brands Inc
+CF Industries Holdings Inc";GearPut 65%;15,70%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0
+0";
+CH0478426833;;07.06.2019;14.06.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;13,50%;нет;100% первые 2 года, далее 76%;2,0%;USD;;"32,41
+145,50
+43,56
+36,94";1
+XS2012042243;CLN Jaguar Land Rover;10.06.2019;14.06.2022;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;8,30%;нет;нет;;USD;;0;
+XS2007209971;;11.06.2019;13.06.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;15,34%;нет;97%, далее -3% в кв.;2,0%;RUB;;"32,41
+150,75
+43,79
+38,41";1
+XS1996310808;;13.06.2019;13.06.2024;"Pola Orbis Holdings Inc
+CF Industries Holdings Inc
+L Brands Inc
+Deutsche Lufthansa-REG";100%;12,76%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"3085,0
+45,14
+22,21
+17,905";
+XS2006329317;;13.06.2019;13.06.2022;"Lumentum Holdings Inc
+Xilinx Inc
+Ciena Corp
+Nokia OYJ";"GearPut 65%,
+StarEffect 120%";15,90%;70%;97%, далее -3% в кв.;2,0%;USD;;"46,96
+108,35
+42,47
+4,45";
+XS2014294123;CLN Jaguar Land Rover;14.06.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;5,73%;нет;нет;2,0%;EUR;;0;
+XS2007253953;;20.06.2019;27.06.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;13,28%;нет;97%;2,0%;USD;;"30,01
+154,1
+46,19
+39,64";1
+XS2019336689;CLN Jaguar Land Rover;21.06.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;5,54%;нет;нет;2,0%;EUR;;0;
+XS2016096310;Не касаясь границ, TWIN WIN Uber 28,8703 / 57,3097;22.06.2019;04.01.2021;Uber Technologies Inc;100%;переменный, зависит от финальной цены актива;;;2,0%;USD;;43,09;1
+XS1962288376;;26.06.2019;03.07.2024;"Pola Orbis Holdings Inc
+CF Industries Holdings Inc
+L Brands Inc
+Deutsche Lufthansa-REG";100%;12,10%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"2966
+46,80
+24,80
+14,84";
+CH0478426916;;27.06.2019;05.07.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;11,30%;нет;97%, далее -3% в кв.;2,0%;GBP;;"30,74
+163,23
+46,72
+44,55";1
+CH0478426908;;27.06.2019;05.07.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;11,00%;нет;97%, далее -3% в кв.;2,0%;CHF;;"30,74
+163,23
+46,72
+44,55";1
+XS2007139152;;27.06.2019;04.07.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;15,80%;нет;97%, далее -3% в кв.;2,0%;RUB;;"30,74
+163,23
+46,72
+44,55";1
+CH0478426890;;27.06.2019;04.07.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;11,50%;нет;97%, далее -3% в кв.;2,0%;EUR;;"30,74
+163,23
+46,72
+44,55";1
+CH0478426882;;27.06.2019;04.07.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;13,26%;нет;97%, далее -3% в кв.;2,0%;USD;;"30,74
+163,23
+46,72
+44,55";1
+XS1962305725;;01.07.2019;01.07.2022;"Advanced Micro Devices Inc
+Western Digital Corp
+Lumentum Holdings Inc
+Nokia OYJ";GearPut 60%;25,40%;60%;97%, далее -3% в кв.;2,0%;USD;;"31,20
+49,65
+54,47
+4,405";
+XS1987687073;;02.07.2019;08.07.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;26,35%;65%;97%, далее -3% в кв.;2,0%;RUB;;"265,30
+39,57
+288,31
+11,78";1
+XS2013620161;CLN Jaguar Land Rover;10.07.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;8,16%;нет;нет;2,0%;USD;;0;
+XS1984736006;;10.07.2019;17.07.2024;"Advanced Micro Devices Inc
+Western Digital Corp
+Lumentum Holdings Inc
+Nokia OYJ";100%;12,20%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"33,79
+54,04
+52,13
+4,45";
+XS2016086782;;10.07.2019;18.07.2022;"Advanced Micro Devices Inc
+Western Digital Corp
+Lumentum Holdings Inc
+Nokia OYJ";100%;16,50%;100% далее -1%, начиная с 4-го кв.;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"33,79
+54,04
+52,13
+4,45";
+XS2027915656;CLN Jaguar Land Rover;10.07.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;8,45%;нет;нет;2,0%;USD;;0;
+XS2027915813;CLN Jaguar Land Rover;10.07.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;5,94%;нет;нет;2,0%;EUR;;0;
+CH0478426981;;11.07.2019;11.07.2024;"Sony Corp
+Lenovo Group LTD
+Hewlett Packard Enterprise
+Qualcomm Inc";GearPut 65%;11,11%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"6049
+6,20
+14,6
+73,71";1
+XS2007327583;;11.07.2019;19.07.2024;"Sony Corp
+Lenovo Group LTD
+Hewlett Packard Enterprise
+Qualcomm Inc";GearPut 65%;15,12%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"6049
+6,20
+14,6
+73,71";1
+XS2023580637;;18.07.2019;25.07.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;12,70%;нет;97%, далее -3% в кв.;2,0%;USD;;"275,49
+43,67
+294,68
+11,68";1
+XS1984774940;Глобальные технологические лидеры;24.07.2019;31.07.2024;"Advanced Micro Devices Inc
+Western Digital Corp
+Lumentum Holdings Inc
+Nokia OYJ";100%;12,40%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"34,110
+57,360
+58,490
+4,633";
+XS2024591534;;24.07.2019;01.08.2022;"Advanced Micro Devices Inc
+Western Digital Corp
+Lumentum Holdings Inc
+Nokia OYJ";100%;18,50%;100%;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"34,11
+57,36
+58,49
+4,633";
+XS2028064819;Мировые бренды;25.07.2019;01.08.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;11,08%;нет;97%, далее -3% в кв.;2,0%;EUR;;"267,41
+45,44
+285,73
+10,6";1
+XS2028051758;;25.07.2019;01.08.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;15,92%;нет;97%, далее -3% в кв.;2,0%;RUB;;"267,41
+45,44
+285,73
+10,6";1
+XS2028057102;;25.07.2019;01.08.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;13,16%;нет;97%, далее -3% в кв.;2,0%;USD;;"267,41
+45,44
+285,73
+10,6";
+XS1984788577;;29.07.2019;05.08.2022;"Goldman Sachs Group Inc
+Morgan Stanley
+Wells Fargo Co
+Citigroup Inc";GearPut 65%;13,20%;75%;100% с 3-го кв.;1,0%;USD;;"220,32
+45,23
+48,28
+71,76";
+XS2004238361;;30.07.2019;05.08.2022;"Canada Goose Holdings Inc
+Servicenow Inc
+Arista Networks Inc
+Tata Motors LTD-SPON ADR";GearPut 50%;13,54%;50%;98%, далее -2% в кв. с 2-го кв.;2,0%;EUR;;"46,42
+281
+274,28
+9,69";1
+XS2036520117;CLN Jaguar Land Rover;31.07.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;6,22%;нет;нет;2,0%;EUR;;0;
+XS2008221454;CLN Jaguar Land Rover;31.07.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;8,90%;нет;нет;;USD;;0;
+XS2008221538;CLN Jaguar Land Rover;31.07.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;8,90%;нет;нет;;USD;;0;
+CH0488712503;;01.08.2019;08.08.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;10,25%;нет;97%, далее -3% в кв.;2,0%;EUR;;"29,86
+164,92
+46,26
+55,51";1
+XS2024579083;;01.08.2019;08.08.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;12,72%;нет;97%, далее -3% в кв.;2,0%;USD;;"272,22
+44,58
+274
+9,24";1
+XS2004286766;;06.08.2019;08.08.2019;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;15,37%;нет;понижающийся барьер;1,0%;RUB;;"28,86
+152,35
+44,68
+53,58";
+XS2004331653;;09.08.2019;16.08.2022;"Anglogold Ashanti-SPON ADR
+Freeport-McMoran Inc
+Barrick Gold Corp
+Newmont Corp";GearPut 65%;16,55%;65%;120% начиная со 2-го кв.;;USD;;"20,24
+9,75
+18,14
+39,03";1
+XS2037361776;;14.08.2019;22.08.2022;"L Brands Inc
+Marathon Oil Corp
+Tapestry Inc
+Canada Goose Holdings Inc";100%;17,00%;100%;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"20,85
+12,30
+25,0
+39,97";1
+XS1998573551;;14.08.2019;21.08.2024;"L Brands Inc
+Marathon Oil Corp
+Tapestry Inc
+Canada Goose Holdings Inc";100%;12,20%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"20,85
+12,30
+25
+39,97";
+XS2036520380;CLN Jaguar Land Rover;14.08.2019;10.07.2024;Jaguar Landrover;100%, кред.риск Jaguar Land Rover;9,10%;нет;нет;2,0%;USD;;0;
+XS2037378150;Индивидуальный запуск;14.08.2019;14.08.2020;"Brent Crude Oil
+Platinum Spot";100%;14,00%;104%;нет;;RUB;;"56,23
+851";
+XS2037357238;;15.08.2019;22.08.2022;"Occidental Petroleum Corp
+Albemarle Corp
+Delta Air Lines Inc
+Discovery Inc-CLASS A";GearPut 65%;19,50%;70%;97%, далее -3% в кв.;2,0%;USD;;"43,96
+61,66
+57,11
+27,17";
+XS2037373946;;15.08.2019;22.08.2022;"Occidental Petroleum Corp
+Albemarle Corp
+Delta Air Lines Inc
+Discovery Inc-CLASS A";GearPut 65%;22,65%;70%;97%, далее -3% в кв.;2,0%;RUB;;"43,96
+61,66
+57,11
+27,17";
+XS2037355885;;15.08.2019;22.08.2022;"Occidental Petroleum Corp
+Albemarle Corp
+Delta Air Lines Inc
+Discovery Inc-CLASS A";GearPut 65%;15,40%;70%;97%, далее -3% в кв.;2,0%;EUR;;"43,96
+61,66
+57,11
+27,17";
+XS2025880936;;19.08.2019;19.08.2022;"Foot Locker Inc
+Lululemon Athletica Inc
+Puma SE
+Skechers USA Inc";GearPut 65%;15,91%;нет;97%, далее -3% в кв.;2,0%;RUB;;"39,57
+178,67
+66,40
+30,93";
+XS1998578600;"CLN ""Oman""";20.08.2019;20.06.2024;гос-во Оман;100%, кред.риск Омана;4,90%;нет;нет;2,0%;USD;;0;
+XS1998582545;;22.08.2019;22.08.2022;"Lululemon Athletica Inc
+Foot Locker Inc
+Skechers USA Inc
+Puma SE";GearPut 65%;11,80%;нет;97%, далее -3% в кв.;2,0%;USD;;"183,97
+41,93
+31,09
+66,75";1
+XS2037348674;;28.08.2019;28.08.2024;"Tapestry Inc
+Canada Goose Holdings Inc
+Marathon Oil Corp
+L Brands Inc";100%;11,00%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"20,49
+36,48
+11,94
+16,67";
+XS2036869944;Мировой спорт;29.08.2019;29.08.2022;"Foot Locker Inc
+Lululemon Athletica Inc
+Puma SE
+Skechers USA Inc";GearPut 65%;10,64%;нет;97%, далее -3% в кв.;2,0%;EUR;;"35,84
+186,06
+69,40
+31,30";1
+XS2037350142;Мировой спорт;29.08.2019;29.08.2022;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+PUMA SE
+Skechers USA Inc";GearPut 65%;14,80%;нет;97%, далее -3% в кв.;2,0%;RUB;;"35,84
+186,06
+69,40
+31,30";1
+XS2037347601;Мировой спорт;29.08.2019;29.08.2022;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+PUMA SE
+Skechers USA Inc";GearPut 65%;11,80%;нет;97%, далее -3% в кв.;2,0%;USD;;"35,84
+186,06
+69,40
+31,30";1
+XS2049155554;Не касаясь границ, TWIN WIN Twitter 29,498 / 54,782;03.09.2019;08.03.2021;Twitter Inc;100%;переменный, зависит от финальной цены актива;;;2,0%;USD;;42,14;1
+CH0495854579;"Нота ""не касаясь барьеров 42,42/82,34"" на нефть";10.09.2019;17.03.2021;Brent Crude Oil;95%;;;95% при пробитии;2,0%;USD;;62,38;1
+CH0478426825;Индивидуальный запуск;10.09.2019;17.06.2022;"Advanced Micro Devices Inc
+Nvidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;13,50%;нет;97%, далее -3% в кв.;1,0%;USD;;"0
+0
+0
+0";1
+XS2047512186;;11.09.2019;11.09.2024;"Schlumberger LTD
+Abbvie Inc
+Hugo Boss AG-ORD
+Stellantis NV";100%;10,65%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"37,32
+69,49
+54,90
+10,849";
+CH0492553976;;12.09.2019;12.09.2024;"Easyjet PLC
+Royal Caribbean Cruises LTD
+Tenaris SA
+TUI AG-DI";GearPut 65%;6% + условный 11%;100%;100%;3,0%;EUR;;"1007
+113,27
+10,165
+9,65";1
+CH0492553968;;12.09.2019;12.09.2024;"Easyjet PLC
+Royal Caribbean Cruises LTD
+Tenaris SA
+TUI AG-DI";GearPut 65%;7% + условный 13%;100%;100%;3,0%;USD;;"1007
+113,27
+10,165
+9,65";1
+XS1998648585;;18.09.2019;26.09.2022;"Freeport-McMoran Inc
+Anglogold Ashanti-SPON ADR
+Barrick Gold Corp
+Newmont Corp";GearPut 65%;8,50%;нет;97%, далее -3% в кв.;1,0%;CHF;;"10,36
+19,10
+17,64
+39,05";1
+XS1998648825;;18.09.2019;27.09.2021;"BP PLC
+Total SA
+ConocoPhillips";GearPut 80%;11,30%;нет;нет;;USD;;"515,1
+48,02
+60,01";
+CH0498631313;;19.09.2019;19.09.2022;"Capri Holdings LTD
+The Mosaic Co
+Schlumberger LTD
+Wirecard AG";GearPut 65%;9,70%;нет;97%, далее -3% в кв.;0,0%;CHF;;"32,57
+20,99
+37,76
+149,90";
+XS2049520609;;19.09.2019;19.09.2022;"Capri Holdings LTD
+The Mosaic Co
+Schlumberger LTD
+Wirecard AG";GearPut 65%;12,72%;нет;97%, далее -3% в кв.;0,0%;USD;;"32,57
+20,99
+37,76
+149,90";
+XS2049520781;;19.09.2019;19.09.2022;"Capri Holdings LTD
+The Mosaic Co
+Schlumberger LTD
+Wirecard AG";GearPut 65%;10,76%;нет;97%, далее -3% в кв.;0,0%;EUR;;"32,57
+20,99
+37,76
+149,90";
+XS2043717334;;19.09.2019;19.09.2022;"Capri Holdings LTD
+The Mosaic Co
+Schlumberger LTD
+Wirecard AG";GearPut 65%;14,60%;нет;97%, далее -3% в кв.;0,0%;USD;;"32,57
+20,99
+37,76
+149,90";
+CH0500516833;;24.09.2019;24.09.2020;"Platinum Spot
+S&P 500 Index";95%;15,00%;в финальное наблюдение S&P должен быть ниже, а платина выше;нет;2,0%;USD;;"954
+2966,6";1
+XS2053494303;;25.09.2019;26.09.2022;"ABBVIE INC
+Hugo Boss AG-ORD
+Fiat Chrysler Automobiles NV
+Schlumberger LTD";100%;15,85%;100%, далее -1% в квартал;100%, далее -1% в квартал cо 2-го кв.;4,0%;RUB;;"72,09
+49,50
+11,786
+35,24";
+XS2026103742;;25.09.2019;25.09.2024;"ABBVIE INC
+Hugo Boss AG-ORD
+Stellantis NV
+Schlumberger LTD";100%;10,60%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"72,09
+49,50
+10,302
+35,24";
+XS1998668773;;26.09.2019;03.10.2022;"Capri Holdings LTD
+The Mosaic Co
+Schlumberger LTD
+Wirecard AG";GearPut 65%;11,80%;нет;97%, далее -3% в кв.;0,0%;USD;;"32,74
+19,95
+34,54
+148,1";
+XS2049534659;;26.09.2019;03.10.2022;"Capri Holdings LTD
+The Mosaic Co
+Schlumberger LTD
+Wirecard AG";GearPut 50%;10,30%;нет;97%, далее -3% в кв.;0,0%;USD;;"32,74
+19,95
+34,54
+148,1";
+XS2043842405;;01.10.2019;26.09.2022;"Arista Networks Inc
+Canada Goose Holdings Inc
+Servicenow Inc
+Tata Motors LTD-SPON ADR";GearPut 65%;17,15%;нет;97%, далее -3% в кв.;3,0%;RUB;;"230,35
+40,63
+250,13
+8,13";1
+CH0495854751;;03.10.2019;04.10.2022;"Borgwarner Inc
+Cimarex Energy Co
+Morgan Stanley
+GAP Inc";GearPut 65%;9,50%;нет;97%, далее -3% в кв.;2,0%;USD;;"34,82
+46,78
+35,65
+16,51";1
+CH0502682401;"Не касаясь границ, twin-win ""Золото"" +/- 15%";08.10.2019;08.04.2021;GOLDLNPM Index;95%;;;;2,0%;EUR;;1505,85;1
+CH0502682393;"Не касаясь границ, twin-win ""Золото"" +/- 19%";08.10.2019;08.04.2021;GOLDLNPM Index;95%;;;;2,0%;USD;;1505,85;1
+XS2060734030;;09.10.2019;10.10.2022;"Capri Holdings LTD
+Occidental Petroleum Corp
+Ford Motor Co
+Foot Locker Inc";100%;16,00%;100%;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"27,83
+40,84
+8,56
+41,47";
+XS2019521744;;09.10.2019;09.10.2024;"Capri Holdings LTD
+Occidental Petroleum Corp
+Ford Motor Co
+Foot Locker Inc";100%;10,50%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"27,83
+40,84
+8,56
+41,47";
+XS2043124192;;10.10.2019;10.10.2022;"Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp
+Seagate Technology";GearPut 65%;27,00%;65%;97%, далее -3% в кв.;;RUB;;"57,34
+28,38
+183,03
+52,90";1
+XS2019527519;;10.10.2019;10.10.2022;"TUI AG-DI
+Ralph Lauren Corp
+BlackRock Inc
+Cisco Systems Inc";GearPut 65%;19,00%;65%;100% (понижающийся?);;USD;;"10,305
+90,02
+420,38
+46,15";
+XS2019525737;;10.10.2019;10.10.2022;"GAP Inc
+Borgwarner Inc
+Morgan Stanley
+Cimarex Energy Co";GearPut 50%;10,80%;нет;97%, далее -3% в кв.;2,0%;EUR;;"16,65
+35,40
+37,351
+44,86";1
+XS2019525810;;10.10.2019;10.10.2022;"GAP Inc
+Borgwarner Inc
+Morgan Stanley
+Cimarex Energy Co";GearPut 50%;12,40%;нет;97%, далее -3% в кв.;2,0%;USD;;"16,65
+35,40
+38,965
+44,86";1
+XS2019529051;;11.10.2019;11.10.2024;"Amazon.com Inc
+Alibaba Group Holdings-SP ADR
+Twilio Inc";100%;5,10%;"1 и 2 кв. 90%
+3-18 кв. 100%
+19 и 20 кв. 105%";"1 и 2 кв. 90%
+3-18 кв. 100%
+19 и 20 кв. 105%";2,0%;USD;;"1731,92
+172,94
+114,34";1
+XS2060731879;;11.10.2019;21.10.2024;"Yandex NV-CLASS A
+Gazprom PJSC-SPON ADR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR";GearPut 55%;20,00%;99%;100%;3,0%;USD;;"29,99
+7,064
+20,34
+14,51";
+CH0502683920;"Не касаясь границ, twin-win ""Золото"" +/- 21,5%";11.10.2019;12.04.2021;GOLD SPOT $/Oz;93%;;;;2,0%;USD;;1479,15;1
+XS2019540884;;16.10.2019;29.10.2021;"BP PLC
+Total SA
+ConocoPhillips";GearPut 80%;11,40%;нет;100%;2,0%;USD;;"486,0
+46,405
+54,61";
+XS2060721482;;16.10.2019;24.10.2022;"Borgwarner Inc
+Cimarex Energy Co
+Morgan Stanley
+GAP Inc";GearPut 50%;12,00%;нет;97%;2,0%;RUB;;"38,33
+43,38
+39,01
+17,55";1
+XS2060722704;;16.10.2019;23.10.2024;"Yandex NV-CLASS A
+Gazprom PJSC-SPON ADR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR";GearPut 55%;12,02%;99%;100%;3,0%;RUB;;"30,20
+7,048
+19,98
+14,49";
+XS2056649804;Мировые бренды;18.10.2019;24.10.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 65%;11,20%;нет;97%, далее -3% в кв.;2,0%;USD;;"18,51
+79,85
+78,97
+170,18";1
+CH0504178853;;22.10.2019;29.10.2020;Generic 1st 'CO' Future;75%;6,75%;нет;нет;2,0%;EUR;;59,7;1
+CH0504178846;;22.10.2019;29.10.2020;Generic 1st 'CO' Future;75%;9,15%;нет;нет;2,0%;USD;;59,7;1
+XS2019558829;;23.10.2019;06.11.2024;"Foot Locker Inc
+Capri Holdings LTD
+Occidental Petroleum Corp
+Ford Motor Co";100%;11,30%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"45,02
+31,63
+42,92
+9,21";
+XS2056955243;;24.10.2019;31.10.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 65%;12,32%;нет;97%, далее -3% в кв.;2,0%;RUB;;"19,91
+81,45
+78,99
+175";1
+XS2056662146;;24.10.2019;31.10.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 65%;9,04%;нет;97%, далее -3% в кв.;2,0%;EUR;;"19,91
+81,45
+78,99
+175";1
+XS2056662062;;24.10.2019;01.10.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 65%;10,92%;нет;97%, далее -3% в кв.;2,0%;USD;;"19,91
+81,45
+78,99
+175";1
+XS2019575831;;28.10.2019;14.11.2022;"Albemarle Corp
+Biogen Inc
+Western Digital Corp
+Viacomcbs Inc-CLASS B";GearPut 65%;21,70%;60%;97%, далее -3% в кв.;;USD;;"63,74
+295,54
+62,73
+35,85";1
+XS2068015143;;31.10.2019;07.11.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 60%;9,05%;нет;97%, далее -3% в кв.;2,0%;EUR;;"19,25
+81,44
+80,44
+170,70";1
+XS2068015069;;31.10.2019;07.11.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 60%;10,40%;нет;97%, далее -3% в кв.;;USD;;"19,25
+81,44
+80,44
+170,70";1
+XS2033412029;;07.11.2019;22.11.2022;"DXC Technology Co
+KOHL'S Corp
+Pioneer Natural Resources Co
+Devon Energy Corp";GearPut 50%;11,60%;нет;100%;2,0%;USD;;"29,54
+56,74
+136,57
+22,68";1
+CH0508203392;;08.11.2019;15.11.2024;"Facebook Inc-CLASS A
+Netflix Inc
+Qualcomm Inc
+Western Digital Corp";GearPut 60%;16,50%;60%;97%, далее -3% в кв.;3,0%;USD;;"190,84
+291,57
+94,03
+52,02";1
+XS2064735926;;12.11.2019;21.11.2022;"Borgwarner Inc
+Discovery Inc-CLASS A
+GAP Inc
+Halliburton Co";GearPut 65%;17,10%;65%;100% с 3-го кв.;2,0%;USD;;"45,72
+30,74
+17,16
+21,03";
+CH0508203715;Глобальные лидеры;13.11.2019;21.11.2024;"Facebook Inc-CLASS A
+Netflix Inc
+Qualcomm Inc
+Western Digital Corp";GearPut 60%;16,72%;60,00%;97%, далее -3% в кв.;4,0%;USD;;"193,15
+289,62
+90,48
+50,38";1
+XS2073696911;;13.11.2019;21.11.2022;"GAP Inc
+Halliburton Co
+Servicenow Inc
+Broadcom Inc";100%;14,40%;100% далее -1%, начиная с 4-го кв.;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"16,74
+20,62
+253,94
+313,67";1
+XS2033429692;;13.11.2019;21.11.2022;"Halliburton Co
+Marathon Oil Corp
+Occidental Petroleum Corp
+Schlumberger LTD";GearPut 65%;10,60%;нет;100%;1,0%;USD;;"20,62
+11,87
+38,12
+35,03";
+CH0508203558;;13.11.2019;21.11.2022;"Goldman Sachs Group Inc
+Morgan Stanley
+Wells Fargo Co
+Citigroup Inc";GearPut 65%;15,76%;75%;100% с 3-го кв.;1,0%;USD;;"219,32
+48,39
+53,29
+73,91";
+XS2033429932;"CLN ""Oman""";13.11.2019;20.12.2024;гос-во Оман;100%, кред.риск Омана;4,20%;нет;нет;2,0%;EUR;;0;
+XS2065446788;"CLN ""Oman""";13.11.2019;20.12.2024;гос-во Оман;100%, кред.риск Омана;4,25%;нет;нет;2,0%;USD;;0;
+XS2079071895;;14.11.2019;21.11.2022;"DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co
+Devon Energy Corp";GearPut 50%;12,10%;нет;97%, далее -3% в кв.;2,0%;RUB;;"35,83
+57,55
+132,37
+21,84";1
+XS2033436473;;14.11.2019;29.11.2022;"DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co
+Devon Energy Corp";GearPut 50%;9,20%;нет;97%, далее -3% в кв.;2,0%;EUR;;"35,83
+57,55
+132,37
+21,84";1
+XS2033436630;;14.11.2019;29.11.2022;"DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co
+Devon Energy Corp";GearPut 50%;11,12%;нет;97%, далее -3% в кв.;2,0%;USD;;"35,83
+57,55
+132,37
+21,84";1
+XS2065446358;"CLN ""Oman""";14.11.2019;20.12.2024;гос-во Оман;100%, кред.риск Омана;4,25%;нет;нет;2,0%;USD;;0;
+XS2073691953;;15.11.2019;22.11.2024;"Facebook Inc-CLASS A
+Netflix Inc
+Qualcomm Inc
+Western Digital Corp";GearPut 60%;17,60%;60%;97%, далее -3% в кв.;3,0%;RUB;;"195,1
+295,03
+90,81
+50,34";1
+XS2042859004;"CLN ""Oman""";15.11.2019;10.01.2025;гос-во Оман;100%, кред.риск Омана;4,50%;нет;нет;2,5%;USD;;0;
+CH0514675211;Глобальные лидеры;18.11.2019;27.12.2024;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Nokia OYJ";100%;9,5-10,5%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"24,70
+37,64
+50,86
+3,267";
+XS2064715902;;19.11.2019;23.11.2020;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR";GearPut 75%;10,00%;нет;98%, далее -2% в кв. с 2-го кв.;2,0%;USD;;"7,76
+27,6
+14,98";
+XS2033470498;;21.11.2019;05.12.2022;"Tapestry Inc
+Estee Lauder Companies-CL A
+Ralph Lauren Corp
+Shiseido Co LTD";GearPut 65%;10,20%;нет;97%, далее -3% в кв.;;USD;;"25,77
+192,74
+103,71
+7848";1
+XS2033477238;;22.11.2019;06.12.2022;"DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co
+Devon Energy Corp";GearPut 50%;8,80%;нет;97%, далее -3% в кв.;3,0%;EUR;;"35,84
+47
+129,56
+22,7";1
+CH0511111061;;25.11.2019;02.12.2022;"Applied Materials Inc
+Facebook Inc-CLASS A
+Intel Corp
+Seagate Technology";GearPut 70%;20,10%;70%;97%, далее -3% в кв.;0,5%;USD;;"58,28
+199,79
+58,81
+59,85";1
+CH0511111046;;25.11.2019;03.12.2024;"Facebook Inc-CLASS A
+Netflix Inc
+Qualcomm Inc
+Western Digital Corp";GearPut 60%;19,00%;60%;97%, далее -3% в кв.;0,5%;USD;;"199,79
+315,55
+85,29
+49,76";1
+XS2073666849;;25.11.2019;09.12.2022;"GAP Inc
+Halliburton Co
+Servicenow Inc
+Broadcom Inc";100%;16,10%;100%;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"17,16
+21,34
+279,75
+319,62";1
+CH0511111269;"Нота ""не касаясь барьеров 50,77/77,77"" на нефть";26.11.2019;04.12.2020;Brent Crude Oil;95%;17,00%;нет;95% при пробитии;2,0%;EUR;;64,27;1
+CH0511111251;"Нота ""не касаясь барьеров 48,85/79,69"" на нефть";26.11.2019;04.12.2020;Brent Crude Oil;95%;8-9%;нет;95% при пробитии;2,0%;USD;;64,27;1
+XS2033499802;Глобальные лидеры;27.11.2019;12.12.2024;"GAP Inc
+Halliburton Co
+ServiceNow Inc
+Broadcom Inc";100%;10,20%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"16,91
+21,41
+281,28
+318,44";
+XS2033430195;Глобальные лидеры;27.11.2019;27.11.2024;"GAP Inc
+Halliburton Co
+ServiceNow Inc
+Broadcom Inc";100%;10,25%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"16,74
+20,62
+253,94
+313,67";1
+XS2073645843;;27.11.2019;12.12.2022;"GAP Inc
+Halliburton Co
+Servicenow Inc
+Broadcom Inc";100%;14,50%;100%;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"16,91
+21,41
+281,28
+318,44";1
+CH0508203624;;27.11.2019;05.12.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;12,05%;нет;97%, далее -3% в кв.;3,0%;USD;;"39,41
+218,24
+60,24
+50,41";1
+XS2047358598;;02.12.2019;06.12.2022;"Tapestry Inc
+Estee Lauder Companies-CL A
+Ralph Lauren Corp
+Shiseido Co LTD";GearPut 65%;10,40%;нет;97%, далее -3% в кв.;2,0%;USD;;"25,89
+195,59
+106,82
+8019";1
+CH0511111699;;02.12.2019;09.12.2022;"Facebook Inc-CLASS A
+Netflix Inc
+Micron Technology Inc
+Western Digital Corp";GearPut 60%;8,66%;нет;100%;2,0%;EUR;;"199,7
+309,99
+46,39
+48,50";1
+CH0511111749;;02.12.2019;09.12.2022;"Tapestry Inc
+Estee Lauder Companies-CL A
+Ralph Lauren Corp
+Shiseido Co LTD";GearPut 65%;8,70%;нет;97%, далее -3% в кв.;2,0%;EUR;;"25,89
+195,59
+106,82
+8019";1
+XS2047358671;;02.12.2019;25.11.2022;"Tapestry Inc
+Estee Lauder Companies-CL A
+Ralph Lauren Corp
+Shiseido Co LTD";GearPut 65%;13,00%;нет;97%, далее -3% в кв.;2,0%;RUB;;"25,89
+195,59
+106,82
+8019";1
+CH0511111731;;02.12.2019;09.12.2022;"Tapestry Inc
+Estee Lauder Companies-CL A
+Ralph Lauren Corp
+Shiseido Co LTD";GearPut 65%;8,25%;нет;97%, далее -3% в кв.;2,0%;CHF;;"25,89
+195,59
+106,82
+8019";1
+XS2086735565;;02.12.2019;09.12.2022;"DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co
+Devon Energy Corp";GearPut 40%;8,12%;нет;97%, далее -3% в кв.;2,0%;USD;;"36,27
+46,82
+126,78
+21,83";
+CH0513604337;;05.12.2019;12.12.2022;"Goldman Sachs Group Inc
+Morgan Stanley
+Wells Fargo Co
+Citigroup Inc";GearPut 65%;15,00%;75%;100% с 3-го кв.;1,0%;USD;;"217,14
+49,07
+53,23
+74,71";
+CH0513604576;;06.12.2019;13.12.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;12,80%;нет;97%, далее -3% в кв.;3,0%;USD;;"39,63
+212,17
+58,99
+49,08";1
+CH0513604659;Нефть;10.12.2019;17.12.2020;Brent Crude Oil;75%;8,70%;нет;нет;2,0%;USD;;64,34;1
+CH0513604642;Нефть;10.12.2019;17.12.2020;Brent Crude Oil;75%;6,30%;нет;нет;2,0%;EUR;;64,34;1
+CH0513607165;5G;11.12.2019;12.12.2022;"Xilinx Inc
+Ciena Corp
+Skyworks Solutions Inc
+Lumentum Holdings Inc";"GearPut 65%,
+StarEffect 120%";9-10%;70%;100%, далее -3% в квартал;2,0%;EUR;;"96,54
+42,62
+111,49
+75,03";1
+CH0513607173;5G;11.12.2019;12.12.2022;"Xilinx Inc
+Ciena Corp
+Skyworks Solutions Inc
+Lumentum Holdings Inc";"GearPut 65%,
+StarEffect 120%";13-15%;70%;100%, далее -3% в квартал;2,0%;USD;;"96,54
+42,62
+111,49
+75,03";1
+CH0513606902;;11.12.2019;19.11.2022;"Halliburton Co
+Philip Morris International Inc
+Qualcomm Inc
+Volkswagen AG";GearPut 65%;10,00%;нет;97%, далее -3% в кв.;;USD;;"23,38
+84,84
+86,99
+178,24";1
+XS2058839833;;12.12.2019;19.12.2022;"Xilinx Inc
+Ciena Corp
+Skyworks Solutions Inc
+Lumentum Holdings Inc";"GearPut 65%,
+StarEffect 120%";16,00%;70%;97%, далее -3% в кв.;2,0%;RUB;;"96,54
+42,62
+111,49
+75,03";
+CH0513604246;Мировые технологии;17.12.2019;28.12.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;10,60%;нет;97%, далее -3% в кв.;2,0%;EUR;;"42,77
+228,29
+59,17
+57,24";1
+XS2047425454;;17.12.2019;16.12.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;13,80%;нет;97%, далее -3% в кв.;2,0%;RUB;;"42,77
+228,29
+59,17
+57,24";1
+CH0513604253;;17.12.2019;24.12.2024;"Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc
+Qualcomm Inc";GearPut 60%;15,10%;60%;97%, далее -3% в кв.;3,0%;USD;;"198,39
+53
+315,48
+88,32";1
+CH0513604238;;17.12.2019;28.12.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;12,44%;нет;97%, далее -3% в кв.;;USD;;"42,77
+228,29
+59,17
+57,24";1
+XS1939096555;"CLN ""Oman""";17.12.2019;20.12.2024;гос-во Оман;100%, кред.риск Омана;4,19%;нет;нет;;USD;;0;
+XS1939096639;"CLN ""Oman""";17.12.2019;20.12.2024;гос-во Оман;100%, кред.риск Омана;1,86%;нет;нет;1,0%;EUR;;0;
+XS2086669087;Глобальные лидеры;18.12.2019;18.12.2022;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Nokia OYJ";100%;14,84%;100%-1% в квартал;100%, далее -1% в квартал cо 2-го кв.;4,0%;RUB;;"24,70
+37,64
+50,86
+3,267";
+XS2047431262;;18.12.2019;27.12.2022;"Abbvie Inc
+Servicenow Inc
+Delta Air Lines Inc
+Kohl's Corp";GearPut 65%;12,40%;нет;97%, далее -3% в кв.;1,0%;USD;;"89,33
+277,45
+58,58
+50,86";
+XS2066275228;;18.12.2019;07.12.2024;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR
+Yandex NV-CLASS A";GearPut 60%;29,82%;90%;100%;1,0%;USD;;"7,958
+31,24
+22,28
+15,76
+41,96";
+CH0514675252;;18.12.2019;27.12.2024;"Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc
+Qualcomm Inc";GearPut 60%;12,05%;60%;97%, далее -3% в кв.;2,0%;EUR;;"202,5
+53,04
+320,80
+87,98";1
+XS2086660888;Мировые бренды;19.12.2019;27.12.2024;"Levi Strauss & Co-CLASS A
+Infineon Technologies AG
+Stellantis NV
+Altria Group Inc";GearPut 65%;9,10%;нет;98%, далее -2% в кв. с 2-го кв.;3,0%;USD;;"19,53
+20,60
+11,889
+50,79";1
+CH0514675682;;19.12.2019;27.12.2022;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;10,10%;нет;97%, далее -3% в кв.;1,0%;CHF;;"42,83
+235,46
+58,45
+58,77";1
+XS2086661340;;19.12.2019;30.12.2024;"Levi Strauss & Co-CLASS A
+Infineon Technologies AG
+Fiat Chrysler Automobiles NV
+Altria Group Inc";GearPut 65%;7,40%;нет;98%, далее -2% в кв. с 2-го кв.;3,0%;EUR;;"19,53
+20,60
+13,602
+50,79";1
+XS2086660615;;19.12.2019;26.12.2024;"Levi Strauss & Co-CLASS A
+Infineon Technologies AG
+Stellantis NV
+Altria Group Inc";GearPut 65%;11,00%;нет;98%, далее -2% в кв. с 2-го кв.;3,0%;RUB;;"19,53
+20,60
+11,889
+50,79";1
+XS2096659482;"CLN ""Oman""";19.12.2019;10.01.2025;гос-во Оман;100%, кред.риск Омана;4,20%;нет;нет;1,0%;USD;;0;
+CH0514675773;;20.12.2019;27.12.2024;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Nokia OYJ";100%;10,10%;100%, последний год 95%;100%, последний год 95%;2,0%;USD;;"25,47
+37,58
+50,57
+3,277";
+XS2087587213;;23.12.2019;23.12.2022;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Nokia OYJ";100%;14,10%;100%, далее -1% в квартал;97%, далее -1% в кв. с 4-го кв.;3,0%;RUB;;"26,23
+37,52
+50,77
+3,284";
+XS2089209014;;27.12.2019;27.12.2022;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+PUMA SE
+Skechers USA Inc";GearPut 65%;20,30%;70%;100% со 2-го кв.;;USD;;"39,49
+230,02
+69,15
+43,69";
+CH0514678017;;27.12.2019;27.12.2022;"Abiomed Inc
+Biogen Inc
+Helmerich & Payne
+Twilio Inc
+Weibo Corp-SPON ADR";GearPut 65%;15,00%;нет;100%;;USD;;"169,27
+300,09
+44,43
+100,43
+47,07";
+XS2104129304;"CLN ""Oman""";14.01.2020;10.01.2025;гос-во Оман;100%, кред.риск Омана;4,30%;нет;нет;1,0%;USD;;0;
+XS2054897207;Мировые бренды;16.01.2020;17.01.2023;"GAP Inc
+Whirlpool Corp
+Xerox Holdings Corp
+Puma SE";GearPut 60%;9,60%;нет;97%, далее -3% в кв.;2,0%;USD;;"18,61
+154,16
+37,29
+76,30";
+XS2102252777;;21.01.2020;28.01.2025;"Facebook Inc-CLASS A
+Netflix Inc
+Micron Technology Inc
+Applied Materials Inc";GearPut 60%;12,04%;60%;97%, далее -3% в кв. до 60%;3,0%;USD;;"221,44
+338,11
+58,97
+63,20";1
+XS2102254989;;21.01.2020;28.01.2020;"Facebook Inc-CLASS A
+Netflix Inc
+Micron Technology Inc
+Applied Materials Inc";GearPut 60%;8,96%;60%;97%, далее -3% в кв. до 60%;;EUR;;"221,44
+338,11
+58,97
+63,20";1
+XS2054924530;;21.01.2020;23.01.2023;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co";GearPut 50%;9,76%;нет;97%, далее -3% в кв.;2,0%;USD;;"24,99
+34,98
+46,13
+147,35";
+CH0519697103;Глобальные лидеры;22.01.2020;22.01.2025;"Abbvie Inc
+Deutsche Lufthansa-REG
+Hugo Boss AG-ORD
+Samsung Electronics Co LTD";100%;10,60%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"87,21
+14,47
+45,68
+60800";
+XS2102251969;;22.01.2020;22.01.2023;"Abbvie Inc
+Deutsche Lufthansa-REG
+Hugo Boss AG-ORD
+Samsung Electronics Co LTD";100%;14,00%;100%, далее -1% в квартал;97%, далее -1% в кв. с 4-го кв.;4,0%;RUB;;"87,21
+14,47
+45,68
+60800";
+XS2102227407;;23.01.2020;23.01.2023;"GAP Inc
+Puma SE
+Whirlpool Corp
+Xerox Holdings Corp";GearPut 60%;11,32%;нет;97%, далее -3% в кв.;2,0%;RUB;;"17,81
+77,15
+150,72
+36,23";
+XS2107390929;;23.01.2020;23.01.2023;"GAP Inc
+Puma SE
+Whirlpool Corp
+Xerox Holdings Corp";GearPut 60%;8,16%;нет;97%, далее -3% в кв.;2,0%;EUR;;"17,81
+77,15
+150,72
+36,23";
+XS2102229528;;24.01.2020;23.01.2023;"Facebook Inc-CLASS A
+Netflix Inc
+Micron Technology Inc
+Applied Materials Inc";GearPut 60%;12,10%;60%;97%, далее -3% в кв.;3,0%;USD;;"217,94
+353,16
+57,76
+62";1
+XS2064005015;;29.01.2020;06.02.2023;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co";GearPut 50%;9,50%;нет;97%, далее -3% в кв.;2,0%;USD;;"22,19
+33,10
+44,85
+138,92";1
+CH0521584752;;29.01.2020;30.01.2023;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;11,10%;нет;97%, далее -3% в кв.;3,0%;USD;;"47,51
+245,54
+59,01
+66,76";1
+CH0521584760;;29.01.2020;06.02.2023;"Abbvie Inc
+Deutsche Lufthansa-REG
+Hugo Boss AG-ORD
+Samsung Electronics Co LTD";100%;15,60%;100%;100% со 2-го кв.;2,0%;USD;;"83,2
+14,17
+43,94
+59100";
+XS2107391067;Мировые бренды;30.01.2020;30.01.2023;"GAP Inc
+Puma SE
+Whirlpool Corp
+Xerox Holdings Corp";GearPut 60%;9,90%;нет;97%, далее -3% в кв.;2,0%;USD;;"17,81
+77,15
+150,72
+36,23";
+XS2064012656;Мировые бренды;30.01.2020;06.02.2023;"GAP Inc
+Whirlpool Corp
+Xerox Holdings Corp
+Puma SE";GearPut 60%;9,60%;нет;97%, далее -3% в кв.;2,0%;USD;;"18,12
+152,79
+36,98
+73,55";
+CH0521585270;;31.01.2020;31.01.2025;"Applied Materials Inc
+Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc";GearPut 60%;8,50%;60%;97%, далее -3% в кв. до 60%;3,0%;EUR;;"57,99
+201,91
+53,09
+345,09";1
+XS2113289750;"CLN ""Oman""";31.01.2020;10.01.2025;гос-во Оман;100%, кред.риск Омана;4,05%;нет;нет;2,0%;USD;;0;
+XS2113277748;"CLN ""Oman""";31.01.2020;10.01.2025;гос-во Оман;100%, кред.риск Омана;4,05%;нет;нет;;USD;;0;
+XS2108078028;;04.02.2020;13.02.2023;"Kohl's Corp
+Biogen Inc
+DXC Technology Co
+Marathon Oil Corp";GearPut 60%;14,60%;60%;100%;2,0%;USD;;"43,22
+283,29
+33,06
+11,77";1
+XS2110074437;;04.02.2020;06.02.2023;"Baidu Inc-SPON ADR
+Stellantis NV
+Lumentum Holdings Inc
+Altria Group Inc";100%;15,50%;100%, далее -1% в квартал;97%, далее -1% в кв. с 4-го кв.;3,0%;RUB;;"131,37
+10,498
+86,52
+46,52";1
+XS2108077723;;04.02.2020;13.02.2023;"Wynn Resorts LTD
+TUI AG-DI
+Tenaris SA
+Freeport-McMoran Inc";GearPut 60%;12,40%;60%;100%;2,0%;EUR;;"132,7
+9,622
+9,414
+12,04";1
+XS2108400016;;04.02.2020;06.02.2023;"Seagate Technology
+Western Digital Corp
+Advanced Micro Devices Inc
+NVidia Corp";GearPut 65%;12,50%;нет;100%;2,0%;RUB;;"58,97
+68,43
+49,45
+247,13";1
+XS2108401410;;04.02.2020;06.02.2023;"Kohl's Corp
+Biogen Inc
+DXC Technology Co
+Marathon Oil Corp";GearPut 60%;12,60%;нет;97%, далее -3% в кв.;3,0%;RUB;;"43,22
+283,29
+33,06
+11,77";1
+XS2064048767;;05.02.2020;06.02.2023;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co";GearPut 50%;10,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"23,41
+34,50
+46,07
+142,19";1
+XS2102180846;;06.02.2020;06.02.2025;"Tenaris SA
+TUI AG-DI
+Royal Caribbean Cruises LTD
+Freeport-McMoran Inc";GearPut 65%;7% + 13,04% при досрочном погашении;100%;100%;3,0%;USD;;"9,57
+10,005
+116,67
+12,32";
+XS2113542166;;07.02.2020;07.02.2022;"Advanced Micro Devices Inc
+HP Inc
+Servicenow Inc
+Western Digital Corp";GearPut 60%;9,80%;нет;нет;2,0%;USD;;"49,73
+21,73
+34,06
+67,03";
+XS2064064962;;07.02.2020;07.02.2023;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co";GearPut 50%;10,00%;нет;97%, далее -3% в кв.;2,5%;USD;;"22,97
+32,70
+43,80
+137,82";1
+XS2109980719;;07.02.2020;07.02.2023;"Devon Energy Corp
+DXC Technology Co
+Kohl's Corp
+Pioneer Natural Resources Co";GearPut 50%;10,70%;нет;97%, далее -3% в кв.;2,5%;RUB;;"22,97
+32,70
+43,80
+137,82";1
+XS2064082600;;10.02.2020;10.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 50%;8,80%;нет;97%, далее -3% в кв.;2,0%;USD;;"338,93
+57,33
+11,38
+127,88";
+XS2102159139;;11.02.2020;11.02.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Gazprom PJSC-SPON ADR
+Lukoil PJSC-SPON ADR
+Sberbank PJSC-SPONSORED ADR";GearPut 60%;21,00%;99%, далее -1% со 2-го кв.;99%, далее -1% со 2-го кв.;3,0%;USD;;"34,62
+7,312
+100
+16,105";
+XS2116614459;;12.02.2020;12.02.2023;"Baidu Inc-SPON ADR
+Stellantis NV
+Lumentum Holdings Inc
+Altria Group Inc";100%;15,40%;100%, далее -1% в квартал;97%, далее -1% в кв. с 4-го кв.;4,0%;RUB;;"137,49
+10,999
+92,85
+45,40";
+XS2073309739;Глобальные лидеры;12.02.2020;12.02.2025;"Baidu Inc-SPON ADR
+Stellantis NV
+Lumentum Holdings Inc
+Altria Group Inc";100%;10,60%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"137,49
+10,999
+92,85
+45,40";
+XS2116610978;КОМБО КУПОН;13.02.2020;20.02.2025;"Tenaris SA
+TUI AG-DI
+Royal Caribbean Cruises LTD
+Freeport-McMoran INC";GearPut 65%;фикс 6% + условный 9,84%;100%;100%;3,0%;EUR;;"9,66
+10,845
+113,62
+12,61";
+XS2116595567;КОМБО КУПОН;13.02.2020;13.02.2025;"Tenaris SA
+TUI AG-DI
+Royal Caribbean Cruises LTD
+Freeport-McMoran Inc";GearPut 65%;8% + 14,16% при досрочном погашении;100%;100%;3,0%;RUB;;"9,66
+10,845
+113,62
+12,61";
+XS2116598744;;13.02.2020;13.02.2025;"Tenaris SA
+TUI AG-DI
+Royal Caribbean Cruises LTD
+Freeport-McMoran Inc";GearPut 65%;7% + 12,32% при досрочном погашении;100%;100%;3,0%;USD;;"9,66
+10,845
+113,62
+12,61";
+XS2073310828;;13.02.2020;13.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 75%;13,00%;нет;97%, далее -3% в кв.;3,0%;USD;;"334,25
+59,33
+11,11
+133,62";
+XS2116598231;;18.02.2020;25.02.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Gazprom PJSC-SPON ADR
+Lukoil PJSC-SPON ADR
+Sberbank PJSC-SPONSORED ADR";GearPut 60%;14,96%;99%, далее -1% со 2-го кв.;99%, далее -1% со 2-го кв.;3,0%;EUR;;"34,30
+7,158
+100
+15,55";
+XS2116591814;;19.02.2020;02.03.2023;"Baidu Inc-SPON ADR
+Fiat Chrysler Automobiles NV
+Lumentum Holdings Inc
+Altria Group Inc";100%;14,80%;100%, далее -1% в квартал;100%, далее -1% в кв, с 4-го кв.;4,0%;RUB;;"135,81
+12,268
+87,22
+45,14";1
+XS2112364851;;19.02.2020;02.03.2023;"Lenovo Group LTD
+Micron Technology Inc
+Ralph Lauren Corp
+Wynn Resorts LTD";GearPut 60%;21,20%;75%;99% со 2-го кв., далее -1% в кв.;1,0%;RUB;;"5,8
+59,99
+119,8
+136,17";
+XS2073360179;;19.02.2020;27.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 60%;10,40%;нет;97%, далее -3% в кв.;3,0%;USD;;"341,04
+59,99
+10,47
+136,17";
+XS2116581773;;19.02.2020;28.02.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Gazprom PJSC-SPON ADR
+Lukoil PJSC-SPON ADR
+Sberbank PJSC-SPONSORED ADR";GearPut 60%;23,76%;99%, далее -1% со 2-го кв.;99%, далее -1% со 2-го кв.;3,0%;RUB;;"35,40
+7,268
+102,6
+15,79";
+XS2073363785;;20.02.2020;27.02.2023;"Schlumberger LTD
+Halliburton Co
+Marathon Oil Corp";GearPut 65%;12,40%;65%;97%, далее -3% в кв.;2,0%;USD;;"33,83
+21,95
+10,25";1
+XS2073364163;;20.02.2020;27.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 60%;8,88%;нет;97%, далее -3% в кв.;2,0%;CHF;;"336,64
+59
+10,25
+133,33";
+XS2073363942;;20.02.2020;27.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 60%;10,80%;нет;97%, далее -3% в кв.;2,0%;USD;;"336,64
+59
+10,25
+133,33";
+XS2116322087;;21.02.2020;21.02.2023;"Advanced Micro Devices Inc
+NVidia Corp
+Seagate Technology
+Western Digital Corp";GearPut 65%;13,55%;нет;97%, далее -3% в кв.;1,0%;RUB;;"53,28
+294,07
+54,04
+66,98";1
+CH0521591732;;21.02.2020;21.02.2023;"Hewlett Packard Enterprise
+NVidia Corp
+Servicenow Inc
+Western Digital Corp";GearPut 65%;10,00%;нет;97%, далее -3% в кв.;;USD;;"14,18
+294,07
+344,48
+66,98";1
+XS2109989777;;21.02.2020;19.02.2025;"Applied Materials Inc
+Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc";100%;26,10%;90%;1 год 100%, далее 95%;0,5%;RUB;;"64,27
+210,18
+56,99
+380,07";
+XS2116544730;;25.02.2020;25.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 40%;4,60%;нет;с 4-го кв. 91%, далее -3% в кв.;2,0%;EUR;;"324,11
+52,1
+8,92
+113,89";
+XS2116545547;;26.02.2020;26.02.2023;"Baidu Inc-SPON ADR
+Fiat Chrysler Automobiles NV
+Lumentum Holdings Inc
+Altria Group Inc";100%;14,96%;100%, далее -1% в квартал;100%, далее -1% в кв, с 4-го кв.;1,0%;RUB;;"123,54
+11,776
+77,53
+42,12";1
+XS2116294526;;26.02.2020;26.02.2025;"Abbvie Inc
+Deutsche Lufthansa-REG
+Hugo Boss AG-ORD
+Samsung Electronics Co LTD";100%;10,00%;100%, последний год 95%;100%, последний год 95%;;USD;;"88,41
+13,06
+41,31
+55900";
+XS2073398658;;26.02.2020;26.02.2025;"Baidu Inc-SPON ADR
+Fiat Chrysler Automobiles NV
+Lumentum Holdings Inc
+Altria Group Inc";100%;10,00%;100%, последний год 95%;100%, последний год 95%;4,0%;USD;;"123,54
+11,776
+77,53
+42,12";1
+CH0524722797;;27.02.2020;27.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 60%;11,10%;нет;97%, далее -3% в кв.;2,0%;USD;;"310,08
+50,58
+7,93
+111,16";
+XS2075771035;;27.02.2020;27.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 60%;9,55%;нет;97%, далее -3% в кв.;2,0%;EUR;;"310,08
+50,58
+7,93
+111,16";
+XS2075771548;;27.02.2020;15.02.2023;"Biogen Inc
+Micron Technology Inc
+Marathon Oil Corp
+Wynn Resorts LTD";GearPut 60%;13,50%;нет;97%, далее -3% в кв.;2,0%;RUB;;"310,08
+50,58
+7,93
+111,16";
+XS2116524112;;28.02.2020;26.02.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Gazprom PJSC-SPON ADR
+Lukoil PJSC-SPON ADR
+Sberbank PJSC-SPONSORED ADR";GearPut 60%;20,60%;100%;понижающийся барьер;3,0%;USD;;"30,06
+6,03
+85,12
+14,065";
+XS2127290273;;04.03.2020;06.03.2023;"Capri Holdings LTD
+Foot Locker Inc
+Western Digital Corp
+Wirecard AG";GearPut 50%;10,80%;нет;97%, далее -3% в кв.;0,0%;USD;;"25,14
+33,63
+59,14
+118,5";
+XS2076018881;;04.03.2020;06.03.2023;"Splunk Inc
+Proofpoint Inc
+Crowdstrike Holdings Inc
+Zscaler Inc";GearPut 50%;8,80%;нет;97%, далее -3% в кв.;1,0%;EUR;;"155,40
+113,51
+57,2
+53,39";1
+XS2129967266;;06.03.2020;06.03.2025;"Tenaris SA
+TUI AG-DI
+Royal Caribbean Cruises LTD
+Freeport-McMoran Inc";GearPut 65%;7% + условный 25%;100%;100%;3,0%;USD;;"7,34
+3,185
+65,01
+9,43";1
+XS2129962382;;11.03.2020;11.03.2023;"GAP Inc
+CF Industries Holdings Inc
+Palo Alto Networks Inc
+Micron Technology Inc";100%;13,20%;100%;97%, далее -1% в кв. с 4-го кв.;;RUB;;"10,97
+28,34
+157,53
+43,72";1
+XS2129956145;;12.03.2020;12.03.2023;"Splunk Inc
+Proofpoint Inc
+Crowdstrike Holdings Inc
+Zscaler Inc";"GearPut 65%,
+StarEffect 120%";17,20%;70%;97%, далее -3% в кв.;;EUR;;"105,01
+91,12
+37,82
+9,50";1
+XS2129945452;;12.03.2020;12.03.2023;"Splunk Inc
+Proofpoint Inc
+Crowdstrike Holdings Inc
+Zscaler Inc";"GearPut 65%,
+StarEffect 120%";18,00%;70%;97%, далее -3% в кв.;2,0%;USD;;"105,01
+91,12
+37,82
+9,50";1
+XS2129933102;;13.03.2020;13.03.2023;"Teck Resources LTD-CLS B
+Lam Research Corp
+Kirkland Lake Gold LTD
+Regeneron Pharmaceuticals";GearPut 50%;13,60%;нет;97%, далее -3% в кв.;2,0%;RUB;;"8,95
+261,78
+23,10
+465,55";1
+XS2129935651;;17.03.2020;24.03.2023;"Splunk Inc
+Proofpoint Inc
+Crowdstrike Holdings Inc
+Zscaler Inc";GearPut 65%;20,20%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"109,39
+111,51
+38,01
+46,86";1
+XS2129919887;;19.03.2020;27.03.2023;"Teck Resources LTD-CLS B
+Lam Research Corp
+Kirkland Lake Gold LTD
+Regeneron Pharmaceuticals";GearPut 50%;15,10%;нет;97%, далее -3% в кв.;2,0%;USD;;"7,29
+195,01
+26,95
+489,83";1
+XS2129896499;;26.03.2020;03.04.2023;"Teck Resources LTD-CLS B
+Lam Research Corp
+Kirkland Lake Gold LTD
+Regeneron Pharmaceuticals";GearPut 50%;15,46%;нет;97%, далее -3% в кв.;2,0%;RUB;;"7,53
+260,34
+32,88
+452,30";1
+XS2127334584;;26.03.2020;03.04.2023;"Kirkland Lake Gold LTD
+Lam Research Corp
+Regeneron Pharmaceuticals
+Teck Resources LTD-CLS B";GearPut 50%;11,50%;нет;97%, далее -3% в кв.;2,0%;EUR;;"32,88
+260,34
+452,3
+7,53";1
+XS2127334741;;26.03.2020;03.04.2023;"Micron Technology Inc
+Netflix Inc
+Seagate Technology
+Western Digital Corp";GearPut 60%;14,06%;нет;97%, далее -3% в кв.;3,0%;USD;;"44,79
+362,99
+47,97
+44,29";1
+XS2129892316;;26.03.2020;03.04.2023;"NVidia Corp
+Western Digital Corp
+Seagate Technology
+Advanced Micro Devices Inc";GearPut 50%;15,00%;нет;97%, далее -3% в кв.;2,0%;RUB;;"257,24
+44,29
+47,97
+47,50";1
+XS2127334402;Америка;02.04.2020;27.03.2023;"Kirkland Lake Gold Ltd
+Lam Research Corp
+Regeneron Pharmaceuticals
+Teck Resources Ltd";GearPut 50%;12,90%;97%, далее -3% в квартал;97%, далее -3% в кв.;2,0%;USD;;"32,88
+260,34
+452,30
+7,53";1
+XS2157101903;;09.04.2020;18.04.2023;"BP PLC
+Chevron Corp
+Repsol SA
+Exxon Mobil Corp";GearPut 60%;10,04%;нет;97%, далее -3% в кв.;2,0%;USD;;"335,75
+84,31
+8,286
+43,13";
+XS2125487665;Российские GDR;16.04.2020;25.04.2025;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR
+Severstal PJSC GDR";GearPut 60%;19,80%;70%;97%, далее -3% в кв.;3,0%;RUB;;"4,933
+26,62
+10,33
+11,63";1
+XS2125491774;Российские GDR;16.04.2020;25.04.2025;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR
+Severstal PJSC GDR";GearPut 60%;19,20%;70%;97%, далее -3% в кв.;3,0%;USD;;"4,933
+26,62
+10,33
+11,63";1
+XS2125491428;Российские GDR;16.04.2020;25.04.2025;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR
+Severstal PJSC GDR";GearPut 60%;18,20%;70%;97%, далее -3% в кв.;3,0%;EUR;;"4,933
+26,62
+10,33
+11,63";1
+XS2112692277;;16.04.2020;24.04.2023;"BP PLC
+Repsol SA
+Exxon Mobil Corp
+Chevron Corp";GearPut 60%;9,60%;нет;97%, далее -3% в кв.;2,0%;EUR;;"291,95
+7,332
+39,15
+79,99";1
+XS2112695700;;16.04.2020;24.04.2023;"BP PLC
+Repsol SA
+Exxon Mobil Corp
+Chevron Corp";GearPut 60%;10,40%;нет;97%, далее -3% в кв.;2,0%;USD;;"291,95
+7,332
+39,15
+79,99";1
+XS2112687517;;16.04.2020;24.04.2023;"BP PLC
+Repsol SA
+Exxon Mobil Corp
+Chevron Corp";GearPut 60%;12,00%;нет;97%, далее -3% в кв.;2,0%;RUB;;"291,95
+7,332
+39,15
+79,99";1
+XS2140741682;;19.04.2020;17.04.2023;"Applied Materials Inc
+Facebook Inc-CLASS A
+Micron Technology Inc
+Netflix Inc";GearPut 50%;9,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"49,59
+175,19
+46,13
+370,72";1
+XS2140741500;;19.04.2020;17.04.2023;"Cisco Systems Inc
+Netflix Inc
+Take-Two Interactive Software Inc
+United Parcel Service-CL B";GearPut 50%;8,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"41,2
+370,72
+119,4
+98,69";1
+XS2112671941;;20.04.2020;27.04.2023;"BP PLC
+Repsol SA
+Exxon Mobil Corp
+Chevron Corp";GearPut 60%;9,60%;нет;с 4-го кв. 91%, далее -3% в кв.;2,0%;USD;;"302,3
+7,734
+41,18
+83,57";1
+XS2088273755;;20.04.2020;27.04.2023;"Schlumberger LTD
+GAP Inc
+Xerox Holdings Corp
+Borgwarner Inc";GearPut 60%;34,50%;60%;с 4-го кв. 91%, далее -3% в кв.;1,0%;USD;;"15,21
+7,84
+17,83
+25,52";1
+XS2088273839;;20.04.2020;27.04.2023;"Schlumberger LTD
+GAP Inc
+Xerox Holdings Corp
+Borgwarner Inc";GearPut 60%;34,50%;60%;с 4-го кв. 91%, далее -3% в кв.;1,0%;USD;;"15,21
+7,84
+17,83
+25,52";1
+XS2147009489;;22.04.2020;01.05.2023;"Schlumberger LTD
+GAP Inc
+Xerox Holdings Corp
+Borgwarner Inc";GearPut 60%;32,80%;60%;с 4-го кв. 91%, далее -3% в кв.;4,0%;USD;;"15,34
+7,11
+17,09
+25,65";1
+CH0534160855;;23.04.2020;05.05.2023;"Cisco Systems Inc
+Netflix Inc
+Take-Two Interactive Software Inc
+United Parcel Service-CL B";GearPut 60%;9,30%;нет;97%, далее -3% в кв.;2,0%;USD;;"41,62
+426,7
+124,55
+99,45";1
+XS2155956258;;24.04.2020;30.04.2025;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR
+Severstal PJSC GDR";GearPut 60%;19,00%;70%;97%, далее -3% в кв. до 70%;1,0%;USD;;"4,909
+26,87
+10,10
+11,51";1
+XS2112641282;;28.04.2020;07.05.2025;"Netflix Inc
+Micron Technology Inc
+Broadcom Inc
+Western Digital Corp";100%;13,40%;100%;100% с 4-го кв.;1,0%;RUB;;"403,83
+45,31
+264,73
+44,70";1
+XS2146999318;;28.04.2020;05.05.2023;"Seagate Technology
+Western Digital Corp
+Advanced Micro Devices Inc
+NVidia Corp";GearPut 65%;3,69%;нет;97%, далее -3% в кв.;1,0%;RUB;;"48,99
+44,7
+55,51
+291,36";1
+CH0542382905;;30.04.2020;12.05.2023;"Cisco Systems Inc
+Netflix Inc
+Take-Two Interactive Software Inc
+United Parcel Service-CL B";GearPut 60%;8,80%;нет;97%, далее -3% в кв.;;USD;;"42,38
+419,85
+121,05
+94,66";1
+XS2156023892;;30.04.2020;08.05.2025;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR
+Severstal PJSC GDR";GearPut 60%;18,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"5,076
+27,78
+10,655
+11,94";1
+XS2156023116;;30.04.2020;12.05.2025;"Gazprom PJSC-SPON ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Sberbank PJSC-SPONSORED ADR
+Severstal PJSC GDR";GearPut 60%;20,00%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"5,076
+27,78
+10,655
+11,94";1
+XS2146997296;;30.04.2020;08.05.2023;"Schlumberger LTD
+GAP Inc
+Xerox Holdings Corp
+Borgwarner Inc";GearPut 60%;30,50%;60%;с 4-го кв. 91%, далее -3% в кв.;2,0%;USD;;"16,82
+8,12
+18,29
+28,57";1
+XS2146990952;;30.04.2020;08.05.2023;"United Parcel Service-CL B
+Take-Two Interactive Software Inc
+Cisco Systems Inc
+Netflix Inc";GearPut 60%;10,00%;нет;97%, далее -3% в кв.;2,0%;RUB;;"94,66
+121,05
+42,38
+419,85";1
+XS2111131624;;30.04.2020;08.05.2023;"Take-Two Interactive Software Inc
+Cisco Systems Inc
+Netflix Inc
+United Parcel Service-CL B";GearPut 60%;8,60%;нет;97%, далее -3% в кв.;;EUR;;"121,05
+42,38
+419,85
+94,66";1
+XS2111159559;;07.05.2020;15.05.2023;"Seagate Technology
+Western Digital Corp
+Advanced Micro Devices Inc
+NVidia Corp";GearPut 60%;13,40%;нет;97%, далее -3% в кв.;2,0%;USD;;"48,72
+41,85
+51,95
+304,87";1
+XS2171280139;;13.05.2020;22.05.2023;"Anglo American PLC
+Agnico Eagle Mines LTD
+Freeport-McMoran Inc
+Vale SA-SP ADR";GearPut 60%;12,90%;нет;97%, далее -3% в кв.;2,0%;EUR;;"1377,60
+64,95
+8,4
+8,18";1
+XS2111177536;;13.05.2020;10.05.2023;"Agnico Eagle Mines LTD
+Freeport-McMoran Inc
+Vale SA-SP ADR
+Anglo American PLC";GearPut 60%;14,20%;нет;97%, далее -3% в кв.;2,0%;RUB;;"64,95
+8,4
+8,18
+1377,60";1
+XS2171280212;;13.05.2020;22.05.2023;"Agnico Eagle Mines LTD
+Freeport-McMoran Inc
+Vale SA-SP ADR
+Anglo American PLC";GearPut 60%;13,90%;нет;97%, далее -3% в кв.;2,0%;USD;;"64,95
+8,4
+8,18
+1377,60";1
+XS2177597064;;14.05.2020;21.05.2025;"Repsol SA
+Micron Technology Inc
+Ralph Lauren Corp
+Morgan Stanley";GearPut 60%;22,00%;60%;97%, далее -3% в кв. до 60%;3,0%;USD;;"8,174
+45,73
+65,87
+38,80";1
+XS2112020685;;21.05.2020;30.05.2023;"Broadcom Inc
+Activision Blizzard Inc
+Palo Alto Networks Inc
+Equinix Inc";GearPut 60%;10,40%;нет;97%, далее -3% в кв.;2,0%;USD;;"274,8
+72,47
+229,50
+644,40";1
+XS2124659413;;28.05.2020;05.06.2023;"Broadcom Inc
+Activision Blizzard Inc
+Palo Alto Networks Inc
+Equinix Inc";GearPut 60%;10,56%;нет;97%, далее -3% в кв.;2,0%;USD;;"283,14
+70,22
+229,39
+693,35";1
+XS2124659330;;28.05.2020;05.06.2023;"Broadcom Inc
+Activision Blizzard Inc
+Palo Alto Networks Inc
+Equinix Inc";GearPut 60%;9,68%;нет;97%, далее -3% в кв.;2,0%;EUR;;"283,14
+70,22
+229,39
+693,35";1
+XS2176832629;;28.05.2020;05.06.2023;"Broadcom Inc
+Activision Blizzard Inc
+Palo Alto Networks Inc
+Equinix Inc";GearPut 60%;11,06%;нет;97%, далее -3% в кв.;2,0%;RUB;;"283,14
+70,22
+229,39
+693,35";1
+XS2179071878;;03.06.2020;12.06.2023;"Anglo American PLC
+Agnico Eagle Mines LTD
+Freeport-McMoran Inc
+Vale SA-SP ADR";GearPut 60%;12,60%;нет;97%, далее -3% в кв.;1,0%;USD;;"1805,2
+58,24
+10,14
+10,57";1
+XS2176822315;Полупроводники;04.06.2020;04.06.2023;"Infineon Technologies AG
+KLA Corp
+Qorvo Inc
+Marvell Technology Group";GearPut 60%;10,30%;нет;97%, далее -3% в кв.;2,0%;USD;;"20,65
+186,29
+113,4
+35,89";1
+XS2188789031;CLN Rolls-Royce;05.06.2020;10.07.2025;Rolls-Royce Holdings PLC;100%, кред.риск Rolls-Royce;4,80%;нет;нет;2,0%;EUR;;0;
+XS2188788066;CLN Rolls-Royce;05.06.2020;10.07.2025;Rolls-Royce Holdings PLC;100%, кред.риск Rolls-Royce;5,80%;нет;нет;2,0%;USD;;0;
+XS2182934336;;10.06.2020;17.06.2025;"General Motors Co
+Tapestry Inc
+Unicredit SPA
+Western Digital Corp";GearPut 50%;22,12%;50%;97%, далее -3% в кв.;;USD;;"28,75
+15,48
+8,63
+46,85";1
+XS2124724175;;10.06.2020;19.06.2023;"Agnico Eagle Mines LTD
+Freeport-McMoran Inc
+Vale SA-SP ADR
+Anglo American PLC";GearPut 60%;11,20%;нет;97%, далее -3% в кв.;2,0%;EUR;;"61,82
+11,47
+11,02
+1868,2";1
+XS2124731030;Полупроводники;11.06.2020;19.06.2023;"Infineon Technologies AG
+KLA Corp
+Qorvo Inc
+Marvell Technology Group";GearPut 60%;10,36%;нет;97%, далее -3% в кв.;2,0%;USD;;"19,672
+180,58
+107,39
+33,32";1
+XS2124730909;Полупроводники;11.06.2020;11.06.2023;"Infineon Technologies AG
+KLA Corp
+Qorvo Inc
+Marvell Technology Group";GearPut 60%;9,50%;нет;97%, далее -3% в кв.;2,0%;EUR;;"19,672
+180,58
+107,39
+33,32";1
+XS2120802173;;11.06.2020;20.06.2025;"BT Group PLC
+BP PLC
+Vodafone Group PLC
+Rolls-Royce Holdings PLC";GearPut 60%;23,28%;70%;97%, далее -3% в кв. до 70%;3,0%;RUB;;"114
+320,9
+125,94
+110,363";1
+XS2120808295;;11.06.2020;20.06.2025;"BT Group PLC
+BP PLC
+Vodafone Group PLC
+Rolls-Royce Holdings PLC";GearPut 60%;23,28%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"114
+320,9
+125,94
+110,363";1
+XS2183851331;;11.06.2020;26.06.2023;"Infineon Technologies AG
+KLA Corp
+Qorvo Inc
+Marvell Technology Group";GearPut 60%;12,04%;нет;97%, далее -3% в кв.;2,0%;RUB;;"19,672
+180,58
+107,39
+33,32";1
+XS2124746905;;15.06.2020;22.06.2023;"Micron Technology Inc
+Netflix Inc
+Seagate Technology
+Western Digital Corp";GearPut 60%;10,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"49,24
+425,50
+50,74
+42,93";1
+XS2191244495;;15.06.2020;22.06.2023;"Apple Inc
+Microsoft Corp
+Facebook Inc-CLASS A
+McDonald's Corp";GearPut 60%;12,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"85,748
+188,94
+232,5
+189,49";1
+XS2174774336;;17.06.2020;24.06.2025;"BT Group PLC
+BP PLC
+Vodafone Group PLC
+Rolls-Royce Holdings PLC";GearPut 60%;22,20%;70%;97%, далее -3% в кв. до 70%;3,0%;USD;;"118,2
+316,75
+129,1
+113,967";1
+CH0550411752;;18.06.2020;26.06.2023;"Altria Group Inc
+Dow Inc
+General Motors Co
+Schwab (Charles) Corp";GearPut 60%;12,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"41,47
+41,58
+27,09
+36,88";1
+XS2174762240;;19.06.2020;26.06.2025;"BT Group PLC
+BP PLC
+Vodafone Group PLC
+Rolls-Royce Holdings PLC";GearPut 60%;20,00%;70%;97%, далее -3% в кв. до 70%;1,0%;USD;;"118,55
+321,45
+127,76
+114,687";1
+XS2190363882;;22.06.2020;29.06.2023;"General Motors Co
+Tapestry Inc
+Unicredit SPA
+Western Digital Corp";GearPut 50%;12,72%;нет;с 3-го кв 96%, далее -2% в кв.;;USD;;"26,37
+13,71
+8,241
+45,11";1
+XS2188620806;;22.06.2020;29.06.2023;"Levi Strauss & Co-CLASS A
+DXC Technology Co
+Skechers USA Inc
+Teck Resources LTD-CLS B";GearPut 50%;13,88%;нет;с 3-го кв 96%, далее -2% в кв.;;USD;;"13,45
+15,49
+31,32
+10,49";1
+XS2142541742;;22.06.2020;29.06.2023;"Hugo Boss AG-ORD
+Fiat Chrysler Automobiles NV
+Ralph Lauren Corp
+Freeport-McMoran Inc";GearPut 50%;11,80%;нет;с 3-го кв 96%, далее -2% в кв.;;USD;;"27,58
+8,568
+73,34
+10,79";1
+XS2142554059;;25.06.2020;03.07.2023;"General Motors Co
+Dow Inc
+Schwab (Charles) Corp
+Altria Group Inc";GearPut 60%;12,08%;нет;97%, далее -3% в кв.;;USD;;"25,23
+39,98
+34,08
+39,66";1
+XS2191205322;;25.06.2020;03.07.2023;"General Motors Co
+Dow Inc
+Schwab (Charles) Corp
+Altria Group Inc";GearPut 60%;12,16%;нет;97%, далее -3% в кв.;;RUB;;"25,23
+39,98
+34,08
+39,66";1
+XS2142554216;;25.06.2020;03.07.2023;"General Motors Co
+Dow Inc
+Schwab (Charles) Corp
+Altria Group Inc";GearPut 60%;11,48%;нет;97%, далее -3% в кв.;;EUR;;"25,23
+39,98
+34,08
+39,66";1
+XS2142578231;;30.06.2020;07.07.2023;"DXC Technology Co
+Teck Resources LTD-CLS B
+Skechers USA Inc
+Levi Strauss & Co-CLASS A";GearPut 50%;14,68%;нет;97%, далее -3% в кв.;2,0%;USD;;"16,50
+10,42
+31,38
+13,40";1
+XS2188550599;;09.07.2020;17.07.2023;"Adobe Inc
+Best Buy Co Inc
+Neste OYJ
+Nokia OYJ";GearPut 65%;10,04%;нет;97%, далее -3% в кв.;2,0%;USD;;"460,84
+84,95
+35,06
+3,627";1
+XS2149624897;;16.07.2020;24.07.2023;"Nokia OYJ
+Adobe Inc
+Best Buy Co Inc
+Neste OYJ";GearPut 65%;10,44%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"3,7125
+426,29
+88,35
+37,05";1
+XS2149624541;;16.07.2020;24.07.2023;"Nokia OYJ
+Adobe Inc
+Best Buy Co Inc
+Neste OYJ";GearPut 65%;10,88%;нет;97%, далее -3% в кв.;2,0%;USD;;"3,7125
+426,29
+88,35
+37,05";1
+XS2149624970;;16.07.2020;14.07.2023;"Nokia OYJ
+Adobe Inc
+Best Buy Co Inc
+Neste OYJ";GearPut 65%;12,12%;нет;97%, далее -3% в кв.;2,0%;RUB;;"3,713
+426,29
+88,35
+37,05";1
+XS2198112257;;17.07.2020;17.07.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Lukoil PJSC-SPON ADR
+Gazprom PJSC-SPON ADR
+Tatneft OAO";GearPut 65%;16,00%;80%;97%, далее -3% в кв. до 80%;3,0%;USD;;"25,58
+68,90
+5,118
+46";1
+XS2198446549;Игровая индустрия и IT-комплект.;22.07.2020;31.07.2023;"Activision Blizzard Inc
+Intel Corp
+Micron Technology Inc
+Take-Two Interactive Software Inc";GearPut 60%;13,80%;70%;100%, далее -2% в кв.;2,0%;RUB;;"81,10
+61,05
+51,65
+154,05";1
+XS2149975927;Игровая индустрия и IT-комплект.;22.07.2020;31.07.2023;"Activision Blizzard Inc
+Intel Corp
+Micron Technology Inc
+Take-Two Interactive Software Inc";GearPut 60%;12,90%;70%;100%, далее -2% в кв.;2,0%;USD;;"81,10
+61,05
+51,65
+154,05";1
+XS2198075892;;22.07.2020;29.07.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Lukoil PJSC-SPON ADR
+Gazprom PJSC-SPON ADR
+Tatneft OAO";GearPut 65%;15,50%;80%;97%, далее -3% в кв. до 80%;3,0%;RUB;;"25,62
+70,50
+5,244
+47,16";1
+XS2211058776;;30.07.2020;07.08.2023;"Discovery Inc-CLASS A
+Corning Inc
+JD.COM Inc-ADR
+Peugeot SA";GearPut 60%;9,10%;нет;100%;2,0%;EUR;;"21,15
+31,12
+62,29
+14,09";1
+XS2149654456;Мировые бренды;30.07.2020;31.07.2023;"Discovery Inc-CLASS A
+Corning Inc
+JD.COM Inc-ADR
+Peugeot SA";GearPut 60%;10,48%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"21,35
+29,80
+60,52
+15,10";1
+XS2149680618;Мировые бренды;30.07.2020;24.07.2023;"Discovery Inc-CLASS A
+Corning Inc
+JD.COM Inc-ADR
+Peugeot SA";GearPut 60%;11,05%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"21,15
+31,12
+62,29
+14,09";1
+CH0559580276;Цифровая революция;31.07.2020;07.08.2023;"Micron Technology Inc
+Netflix Inc
+Seagate Technology
+Western Digital Corp";GearPut 60%;10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"50,055
+488,88
+45,20
+43,10";1
+XS2210316282;;04.08.2020;11.08.2023;"Ralph Lauren Corp
+Delta Air Lines Inc
+Societe Generale SA
+Western Digital Corp";GearPut 55%;12,20%;нет;с 3-го кв 96%, далее -2% в кв.;2,0%;USD;;"66,68
+25,67
+13,58
+44,76";1
+XS2149679446;;05.08.2020;24.07.2023;"Adobe Inc
+Best Buy Co Inc
+Neste OYJ
+Nokia OYJ";GearPut 60%;18,20%;70%;99% со 2-го кв., далее -1% в кв.;1,0%;RUB;;"436,30
+98,10
+39,53
+3,677";1
+XS2211058859;;06.08.2020;07.08.2023;"Discovery Inc-CLASS A
+Corning Inc
+JD.COM Inc-ADR
+Peugeot SA";GearPut 60%;10,06%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"21,15
+31,12
+62,29
+14,09";1
+XS2160754631;;06.08.2020;13.08.2025;"Qualcomm Inc
+Western Digital Corp
+Sony Corp
+Xiaomi Corp";GearPut 65%;9,24%;70%;97%, далее -3% в кв.;3,0%;USD;;"111,06
+37,3
+8525
+15,44";1
+XS2209311708;;06.08.2020;14.08.2023;"Hewlett Packard Enterprise
+Micron Technology Inc
+Qualcomm Inc
+Seagate Technology";GearPut 70%;15,80%;70%;97%, далее -3% в кв. до 70%;0,5%;RUB;;"10,11
+48,7
+111,06
+44,96";1
+XS2149980257;;06.08.2020;14.08.2023;"Facebook Inc-CLASS A
+Micron Technology Inc
+Applied Materials Inc
+Netflix Inc";GearPut 65%;8,50%;нет;97%, далее -3% в кв.;2,0%;USD;;"265,28
+48,7
+63,61
+509,08";1
+XS2211090076;;06.08.2020;14.08.2023;"Repsol SA
+BNP Paribas
+Newmont Corp
+General Motors Co";GearPut 65%;10,40%;нет;97%, далее -3% в кв.;2,0%;USD;;"6,8
+35,835
+70,110
+26,62";1
+XS2210303892;Депозитарные расписки;11.08.2020;18.08.2025;"MMC Norilsk Nickel PJSC-CLASS ADR
+Lukoil PJSC-SPON ADR
+Gazprom PJSC-SPON ADR
+Tatneft OAO";GearPut 60%;16,60%;100%;100% с 4-го кв.;3,0%;USD;;"28,23
+71,46
+5,232
+48,04";
+XS2209276521;ESG;13.08.2020;21.08.2023;"BNP Paribas
+General Motors Co
+Newmont Corp
+Repsol SA";GearPut 65%;11,10%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"36,99
+27,55
+64,11
+7,054";1
+XS2176118813;Электроника;13.08.2020;20.08.2025;"Qualcomm Inc
+Western Digital Corp
+Sony Corp
+Xiaomi Corp";GearPut 65%;15,20%;70%;97%, далее -3% в кв. до 70%;3,0%;USD;;"113,41
+35,74
+8876,0
+15,34";1
+XS2214549797;ESG;13.08.2020;21.08.2023;"BNP Paribas
+General Motors Co
+Newmont Corp
+Repsol SA";GearPut 65%;10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"36,99
+27,55
+64,11
+7,054";1
+XS2176112451;;13.08.2020;20.08.2025;"Sony Corp
+Qualcomm Inc
+Western Digital Corp
+Xiaomi Corp";GearPut 65%;15,00%;70%;97%, далее -3% в кв.;3,0%;RUB;;"8876,0
+113,41
+35,74
+15,34";1
+XS2176112535;;13.08.2020;20.08.2025;"Sony Corp
+Qualcomm Inc
+Western Digital Corp
+Xiaomi Corp";GearPut 65%;13,60%;70%;97%, далее -3% в кв.;3,0%;EUR;;"8876,0
+113,41
+35,74
+15,34";1
+XS2210256520;Рабочее место будущего;20.08.2020;20.08.2023;"Dropbox Inc
+Palo Alto Networks Inc
+RingCentral Inc
+Atlassian Corporation PLC";"GearPut 65%
+StarEffect 120%";14,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"20,16
+272,52
+290,38
+167,85";1
+XS2160794934;;20.08.2020;18.08.2023;"Sony Corp
+Qualcomm Inc
+Western Digital Corp
+Xiaomi Corp";GearPut 65%;9,50%;нет;97%, далее -3% в кв.;2,0%;RUB;;"8284,0
+110,66
+34,10
+18,16";1
+CH0559582934;ESG;21.08.2020;21.08.2023;"BNP Paribas
+General Motors Co
+Newmont Corp
+Repsol SA";GearPut 65%;9,40%;нет;97%, далее -3% в кв.;2,0%;EUR;;"36,99
+27,55
+64,110
+7,054";1
+XS2024044211;;26.08.2020;11.09.2023;"Anglogold Ashanti-SPON ADR
+Freeport-McMoran Inc
+Barrick Gold Corp
+Newmont Corp";GearPut 65%;18,00%;65%;120%;;USD;;"29,21
+15,01
+29,37
+65,67";
+XS2161057372;;27.08.2020;04.09.2023;"Applied Materials Inc
+Skechers USA Inc
+Lumentum Holdings Inc
+Renault SA";GearPut 55%;9,72%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"62,03
+30,59
+84,43
+24,27";1
+XS2224525381;;27.08.2020;05.09.2023;"Applied Materials Inc
+Skechers USA Inc
+Lumentum Holdings Inc
+Renault SA";GearPut 55%;10,24%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"62,03
+30,59
+84,43
+24,27";1
+XS2160797101;;27.08.2020;28.08.2023;"Applied Materials Inc
+Skechers USA Inc
+Lumentum Holdings Inc
+Renault SA";GearPut 55%;10,80%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"63,79
+29,32
+84,28
+23,195";1
+XS2210238890;;27.08.2020;28.08.2023;"Applied Materials Inc
+Skechers USA Inc
+Lumentum Holdings Inc
+Renault SA";GearPut 55%;11,70%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"62,03
+30,59
+84,43
+24,27";1
+XS2210240284;Рабочее место будущего;27.08.2020;12.09.2023;"Dropbox Inc
+Palo Alto Networks Inc
+RingCentral Inc
+Atlassian Corporation PLC";"GearPut 65%
+StarEffect 120%";13,70%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"20,31
+255,37
+285,70
+188,31";1
+XS2210240011;Рабочее место будущего;27.08.2020;11.09.2023;"Dropbox Inc
+Palo Alto Networks Inc
+RingCentral Inc
+Atlassian Corporation PLC";"GearPut 65%
+StarEffect 120%";15,56%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"20,31
+255,37
+285,70
+188,31";1
+XS2218543572;;27.08.2020;05.09.2023;"Intel Corp
+Repsol SA
+Western Digital Corp
+General Motors Co";GearPut 65%;10,06%;нет;97%, далее -3% в кв.;2,0%;USD;;"49,40
+6,882
+35,24
+29,69";
+XS2226130941;CLN Rolls-Royce;28.08.2020;10.07.2023;Rolls-Royce Holdings PLC;100%, кред.риск Rolls-Royce;3,60%;нет;нет;;USD;;0;
+XS2223315875;Авиалинии;03.09.2020;12.09.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";12,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"31,22
+37,40
+38,74
+40,39";1
+XS2223314712;;03.09.2020;19.09.2023;"Dropbox Inc
+Palo Alto Networks Inc
+RingCentral Inc
+Atlassian Corporation PLC";"GearPut 65%
+StarEffect 120%";13,70%;70%;97%, далее -3% в кв.;;USD;;"20,57
+242,21
+279,72
+181,78";1
+XS2223283578;Авиалинии;10.09.2020;10.09.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";11,60%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"31,79
+36,45
+38,94
+40,89";1
+XS2210235011;Рабочее место будущего;10.09.2020;28.08.2023;"Dropbox Inc
+Palo Alto Networks Inc
+RingCentral Inc
+Atlassian Corporation PLC";"GearPut 65%
+StarEffect 120%";12,24%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"20,31
+255,37
+285,70
+188,31";1
+XS2229493866;Фармацевтика;10.09.2020;19.09.2022;"Sanofi
+Bristol-Myers Squibb Co
+Biogen Inc
+Alexion Pharmaceuticals Inc";GearPut 65%;7,30%;нет;97%, далее -3% в кв.;2,0%;USD;;"87,54
+58,99
+269,91
+105,36";
+XS2229483552;Восстановление;10.09.2020;17.09.2025;"BP PLC
+Southwest Airlines Co
+Ralph Lauren Corp
+Volkswagen AG";GearPut 60%;34,00%;100%;100%;3,0%;EUR;;"262,25
+38,94
+75,51
+150,96";1
+XS2223282760;Авиалинии;10.09.2020;18.09.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";10,86%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"31,79
+36,45
+38,94
+40,89";1
+XS2223284030;Восстановление;10.09.2020;17.09.2025;"BP PLC
+Southwest Airlines Co
+Ralph Lauren Corp
+Volkswagen AG";GearPut 60%;38,00%;100%;100%;3,0%;RUB;;"262,25
+38,94
+75,51
+150,96";1
+XS2223282927;Авиалинии;10.09.2020;18.09.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";13,16%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"31,79
+36,45
+38,94
+40,89";1
+XS2173743597;Фармацевтика;11.09.2020;12.09.2022;"Sanofi
+Bristol-Myers Squibb Co
+Biogen Inc
+Alexion Pharmaceuticals Inc";GearPut 65%;7,10%;нет;97%, далее -3% в кв.;2,0%;EUR;;"83,57
+59,95
+276,0
+112,97";
+XS2226910441;CLN Rolls-Royce;15.09.2020;10.07.2025;Rolls-Royce Holdings PLC;100%, кред.риск Rolls-Royce;3,70%;нет;нет;;EUR;;"0
+0
+0
+0";
+XS2229517045;Мировые бренды;18.09.2020;25.09.2023;"Foot Locker Inc
+Teck Resources LTD
+Kirkland Lake Gold LTD
+Lam Research Corp";GearPut 55%;11,20%;нет;97%, далее -3% в кв.;2,0%;USD;;"35,95
+14,89
+52,35
+305,89";
+XS2229521666;;18.09.2020;26.09.2023;"Sanofi
+Bristol-Myers Squibb Co
+Biogen Inc
+Alexion Pharmaceuticals Inc";GearPut 65%;6,56%;нет;97%, далее -3% в кв.;2,0%;EUR;;"88,44
+59,27
+274,48
+113,72";
+CH0565572523;;18.09.2020;25.09.2023;"GOLD SPOT $/Oz
+SILVER SPOT $/Oz";GearPut 80%;7,00%;нет;100%;2,0%;USD;;"1950,85
+27,06";
+XS2173805701;Металлургия;21.09.2020;08.09.2023;"Anglo American PLC
+Barrick Gold Corp
+Freeport-McMoran Inc
+Vale SA-SP ADR";GearPut 65%;11,50%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"1937,40
+29,93
+16,36
+11,75";
+XS2229504811;Металлургия;21.09.2020;21.09.2023;"Anglo American PLC
+Barrick Gold Corp
+Freeport-McMoran Inc
+Vale SA-SP ADR";GearPut 65%;10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"1937,40
+29,93
+16,36
+11,75";
+XS2229547208;Мировые бренды;24.09.2020;25.09.2023;"Foot Locker Inc
+Teck Resources LTD
+Kirkland Lake Gold LTD
+Lam Research Corp";GearPut 55%;10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"32,87
+13,91
+48,58
+327,17";
+XS2229547117;Мировые бренды;24.09.2020;25.09.2023;"Foot Locker Inc
+Teck Resources LTD
+Kirkland Lake Gold LTD
+Lam Research Corp";GearPut 55%;11,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"32,87
+13,91
+48,58
+327,17";
+XS2225176135;;24.09.2020;24.09.2025;"Facebook Inc-CLASS A
+Hewlett Packard Enterprise
+International Business Machines Corp
+Qualcomm Inc
+Seagate Technology";GearPut 70%;15,30%;70%;100%;1,0%;RUB;;"254,82
+9,63
+124,92
+114,88
+49,14";
+CH0569864314;;24.09.2020;30.09.2022;"GOLD SPOT $/Oz
+SILVER SPOT $/Oz";GearPut 80%;6,00%;нет;100%;;EUR;;"1861,75
+22,22";
+XS2231804852;Авиалинии;06.10.2020;29.09.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"30,22
+34,07
+38,12
+37,88";1
+XS2231695201;;08.10.2020;02.10.2023;"Foot Locker Inc
+Teck Resources LTD
+Kirkland Lake Gold LTD
+Lam Research Corp";GearPut 55%;11,50%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"32,87
+13,91
+48,58
+327,17";
+XS2239652964;;08.10.2020;02.10.2023;"Delta Air Lines Inc
+Foot Locker Inc
+Barrick Gold Corp
+Lam Research Corp";GearPut 65%;12,36%;нет;100% со 2-го кв., далее -4% в кв. до 65%;1,0%;USD;;"31,10
+34,11
+28,26
+339,13";
+XS2231618807;Авиалинии;12.10.2020;19.10.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";12,06%;нет;97%, далее -3% в кв.;2,0%;RUB;;"32,64
+36,38
+39,19
+38,41";1
+CH0575760878;5G;15.10.2020;23.10.2023;"Arista Networks Inc
+Lumentum Holdings Inc
+Marvell Technology Group
+Qualcomm Inc";"GearPut 65%
+StarEffect 130%";14,70%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"226,23
+83,54
+42,95
+128,58";1
+XS2239674265;Образование;16.10.2020;17.10.2022;"Chegg Inc
+New Oriental Education & Tech Grp
+RELX PLC
+Wolters Kluwer NV";GearPut 65%;10,20%;нет;97%, далее -3% в кв.;2,0%;USD;;"79,94
+16,771
+1681,5
+71,9";
+XS2239675403;Образование;16.10.2020;17.10.2022;"Chegg Inc
+New Oriental Education & Tech Grp
+RELX PLC
+Wolters Kluwer NV";GearPut 65%;9,32%;нет;97%, далее -3% в кв.;2,0%;EUR;;"79,94
+16,771
+1681,5
+71,9";
+XS2231616934;Образование;16.10.2020;17.10.2022;"Chegg Inc
+New Oriental Education & Tech Grp
+RELX PLC
+Wolters Kluwer NV";GearPut 65%;10,56%;нет;97%, далее -3% в кв.;2,0%;RUB;;"79,94
+16,771
+1681,5
+71,9";
+XS2240093216;Европейские полупроводники;16.10.2020;16.10.2025;"ASM International NV
+Infineon Technologies AG
+NXP Semiconductors NV
+STMicroelectronics NV";GearPut 65%;13,80%;70%;97%, далее -3% в кв. до 70%;3,0%;USD;;"129,85
+26,835
+134,83
+28,5";1
+XS2240100284;Европейские полупроводники;16.10.2020;16.10.2025;"ASM International NV
+Infineon Technologies AG
+NXP Semiconductors NV
+STMicroelectronics NV";GearPut 65%;13,00%;70%;97%, далее -3% в кв. до 70%;3,0%;EUR;;"129,85
+26,835
+134,83
+28,5";1
+XS2240097399;Европейские полупроводники;16.10.2020;16.10.2025;"ASM International NV
+Infineon Technologies AG
+NXP Semiconductors NV
+STMicroelectronics NV";GearPut 65%;15,90%;70%;97%, далее -3% в кв. до 70%;3,0%;RUB;;"129,85
+26,835
+134,83
+28,5";
+XS2184478480;Депозитарные расписки;16.10.2020;21.10.2025;"Sberbank PJSC-SPONSORED ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Lukoil PJSC-SPON ADR
+Gazprom PJSC-SPON ADR";GearPut 65%;23,00%;100%;100%;2,0%;USD;;"0
+0
+0
+0";
+XS2242074339;Авиалинии;19.10.2020;26.10.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"31,50
+35,50
+39,85
+39,58";1
+XS2239695856;Мировые бренды;22.10.2020;23.10.2023;"Nokia OYJ
+Valero Energy Corp
+KLA Corp
+NVidia Corp";GearPut 60%;9,86%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"3,42
+41,56
+213,09
+558,8";1
+XS2239708691;Цифровая революция;26.10.2020;26.10.2023;"Nokia OYJ
+Lumentum Holdings Inc
+KLA Corp
+NVidia Corp";GearPut 50%;7,00%;нет;97%, далее -3% в кв. до 70%;2,0%;CHF;;"3,545
+83,31
+206,81
+539,91";1
+XS2249378907;;28.10.2020;06.11.2023;"Nokia OYJ
+Valero Energy Corp
+KLA Corp
+NVidia Corp";GearPut 60%;8,60%;нет;97%, далее -3% в кв.;2,0%;CHF;;"3,447
+36,19
+190,55
+505,08";1
+XS2239730273;Мировые бренды;29.10.2020;30.10.2023;"Nokia OYJ
+Valero Energy Corp
+KLA Corp
+NVidia Corp";GearPut 60%;10,12%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"3,567
+41,28
+203,31
+534,44";1
+XS2242020753;5G;29.10.2020;07.11.2023;"Arista Networks Inc
+Lumentum Holdings Inc
+Marvell Technology Group
+Qualcomm Inc";"GearPut 65%
+StarEffect 130%";16,00%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"203,16
+85,18
+38,21
+126,44";1
+XS2242084056;;30.10.2020;24.10.2022;"Foot Locker Inc
+Qualcomm Inc
+Ralph Lauren Corp
+United Airlines Holdings Inc";GearPut 70%;17,20%;нет;98%, далее -2% в кв. с 2-го кв.;;RUB;;"38,09
+129,03
+74,79
+34,16";1
+CH0575763104;5G;30.10.2020;30.10.2023;"Arista Networks Inc
+Lumentum Holdings Inc
+Marvell Technology Group
+Qualcomm Inc";"GearPut 65%
+StarEffect 130%";14,70%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"213,97
+85,29
+41,04
+128,38";1
+CH0575763385;;30.10.2020;06.11.2023;"Arista Networks Inc
+Lumentum Holdings Inc
+Marvell Technology Group
+Qualcomm Inc";GearPut 65%;10,26%;нет;97%, далее -3% в кв.;;USD;;"208,9
+82,69
+37,51
+123,36";1
+XS2242012495;;30.10.2020;06.11.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";9,24%;нет;97%, далее -3% в кв.;;USD;;"30,64
+33,86
+39,53
+37,89";1
+XS2249385431;Мировые бренды;05.11.2020;06.11.2023;"Nokia OYJ
+Valero Energy Corp
+KLA Corp
+NVidia Corp";GearPut 60%;9,56%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"2,81
+37,53
+201,95
+520,96";1
+XS2243866998;Мировые бренды;06.11.2020;07.11.2023;"Nokia OYJ
+Valero Energy Corp
+KLA Corp
+NVidia Corp";GearPut 60%;10,50%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"2,81
+37,53
+201,95
+520,96";1
+XS2249385357;Мировые бренды;06.11.2020;07.11.2023;"Nokia OYJ
+Valero Energy Corp
+KLA Corp
+NVidia Corp";GearPut 60%;8,72%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"2,81
+37,53
+201,95
+520,96";1
+CH0575763302;5G;06.11.2020;06.11.2023;"Arista Networks Inc
+Lumentum Holdings Inc
+Marvell Technology Group
+Qualcomm Inc";"GearPut 65%
+StarEffect 130%";14,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"203,16
+85,18
+38,21
+126,44";1
+CH0575763310;5G;06.11.2020;06.11.2023;"Arista Networks Inc
+Lumentum Holdings Inc
+Marvell Technology Group
+Qualcomm Inc";"GearPut 65%
+StarEffect 130%";12,20%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"203,16
+85,18
+38,21
+126,44";1
+XS2242007651;Авиалинии;17.11.2020;09.11.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";9,24%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"30,22
+33,78
+38,40
+38,27";1
+XS2249439030;ESG;19.11.2020;21.11.2022;"ING Groep NV
+Repsol SA
+ArcelorMittal SA
+Autodesk Inc";GearPut 65%;10,28%;нет;97%, далее -3% в кв.;2,0%;USD;;"7,391
+7,356
+13,374
+245,71";1
+XS2249438909;ESG;19.11.2020;21.11.2022;"ING Groep NV
+Repsol SA
+ArcelorMittal SA
+Autodesk Inc";GearPut 65%;9,76%;нет;97%, далее -3% в кв.;2,0%;EUR;;"7,391
+7,356
+13,374
+245,71";1
+XS2250820730;ESG;26.11.2020;21.11.2022;"ING Groep NV
+Repsol SA
+ArcelorMittal SA
+Autodesk Inc";GearPut 65%;11,04%;нет;97%, далее -3% в кв.;2,0%;RUB;;"7,391
+7,356
+13,374
+245,71";1
+XS2250820490;SAS;26.11.2020;20.11.2023;"Docusign Inc
+Twilio Inc
+Atlassian Corporation PLC
+VMWare Inc";"GearPut 65%
+StarEffect 130%";14,10%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"212,62
+285,67
+193,0
+138,46";
+XS2250823593;SAS;26.11.2020;20.11.2023;"Docusign Inc
+Twilio Inc
+Atlassian Corporation PLC
+VMWare Inc";"GearPut 65%
+StarEffect 130%";12,10%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"212,62
+285,67
+193,0
+138,46";
+XS2250821209;SAS;26.11.2020;20.11.2023;"Docusign Inc
+Twilio Inc
+Atlassian Corporation PLC
+VMWare Inc";"GearPut 65%
+StarEffect 130%";15,06%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"212,62
+285,67
+193,0
+138,46";
+XS2257401948;Мировые бренды;27.11.2020;28.11.2023;"Xiaomi Corp
+Barrick Gold Corp
+Qorvo Inc
+ViacomCBS Inc-CLASS B";GearPut 60%;9,00%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"25,55
+24,18
+146,86
+33,43";1
+CH0575768855;Генная терапия;27.11.2020;27.11.2023;"Biomarin Pharmaceutical Inc
+Neurocrine Biosciences Inc
+Sarepta Therapeutics Inc
+Vertex Pharmaceuticals Inc";"GearPut 65%
+StarEffect 130%";16,10%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"75,13
+87,45
+134,42
+211,97";
+XS2257398201;Индивидуальный запуск;27.11.2020;28.11.2023;"Anglogold Ashanti-SPON ADR
+Capri Holdings LTD
+Netflix Inc
+Advanced Micro Devices Inc";GearPut 65%;12,00%;нет;96%, далее -4% в кв. до 65%;2,0%;USD;;"22,22
+33,33
+484,67
+85,54";
+XS2261381292;;01.12.2020;01.12.2023;"Capri Holdings LTD
+Ralph Lauren Corp
+Tapestry Inc
+L Brands Inc";GearPut 65%;11,56%;нет;96%, далее -4% в кв.;1,0%;EUR;;"35,55
+88,62
+28,36
+38,90";
+XS2190731278;;01.12.2020;25.11.2022;"Nokia OYJ
+Delta Air Lines Inc
+Halliburton Co
+Teck Resources Ltd";GearPut 69%;14,00%;нет;97%, далее -3% в кв.;1,0%;USD;;"3,277
+37,6
+15,81
+14,83";1
+XS2257443437;Мировые бренды;04.12.2020;04.12.2023;"Xiaomi Corp
+Barrick Gold Corp
+Qorvo Inc
+ViacomCBS Inc-CLASS B";GearPut 60%;8,80%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"26,05
+22,69
+150,11
+35,065";1
+XS2257443353;Мировые бренды;04.12.2020;04.12.2023;"Xiaomi Corp
+Barrick Gold Corp
+Qorvo Inc
+ViacomCBS Inc-CLASS B";GearPut 60%;7,76%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"26,05
+22,69
+150,11
+35,065";1
+XS2263650280;Генная терапия;04.12.2020;04.12.2023;"Biomarin Pharmaceutical Inc
+Neurocrine Biosciences Inc
+Sarepta Therapeutics Inc
+Vertex Pharmaceuticals Inc";"GearPut 65%
+StarEffect 130%";18,10%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"80,4
+95,56
+139,15
+226,71";
+XS2261338953;Индивидуальный запуск;07.12.2020;07.12.2023;"DexCom Inc
+Horizon Therapeutics PLC
+Incyte Corp
+Qiagen";GearPut 63%;11,00%;нет;97%, далее -3% в кв. до 70%;0,5%;RUB;;"337,40
+69,87
+83,06
+40,32";
+XS2261336072;Индивидуальный запуск;07.12.2020;07.12.2023;"Tapestry Inc
+L Brands Inc
+Ralph Lauren Corp
+Capri Holdings LTD";GearPut 50%;12,04%;нет;97%, далее -3% в кв. до 70%;0,5%;RUB;;"29,74
+40,24
+95,49
+39,33";
+XS2261504398;Российские GDR;10.12.2020;03.12.2025;"Sberbank PJSC-SPONSORED ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Lukoil PJSC-SPON ADR
+Gazprom PJSC-SPON ADR";GearPut 65%;22,04%;100%;100%;3,0%;RUB;;"0
+0
+0
+0";
+XS2261418128;Российские GDR;10.12.2020;04.12.2025;"Sberbank PJSC-SPONSORED ADR
+MMC Norilsk Nickel PJSC-CLASS ADR
+Lukoil PJSC-SPON ADR
+Gazprom PJSC-SPON ADR";GearPut 65%;20,00%;100%;100%;3,0%;USD;;"0
+0
+0
+0";
+XS2270243137;;10.12.2020;10.12.2023;"AngloGold Ashanti-SPON ADR
+Capri Holdings LTD
+Netflix Inc
+Advanced Micro Devices Inc";GearPut 65%;12,20%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"21,5
+39,66
+501,09
+91,66";
+XS2261497080;Мировые бренды;11.12.2020;04.12.2023;"Xiaomi Corp
+Barrick Gold Corp
+Qorvo Inc
+ViacomCBS Inc-CLASS B";GearPut 60%;9,80%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"26,05
+22,69
+150,11
+35,065";1
+XS2261408087;Генная терапия;11.12.2020;04.12.2023;"Biomarin Pharmaceutical Inc
+Neurocrine Biosciences Inc
+Sarepta Therapeutics Inc
+Vertex Pharmaceuticals Inc";"GearPut 65%
+StarEffect 130%";16,90%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"80,40
+95,56
+139,15
+226,71";
+XS2261404680;Генная терапия;11.12.2020;04.12.2023;"Biomarin Pharmaceutical Inc
+Neurocrine Biosciences Inc
+Sarepta Therapeutics Inc
+Vertex Pharmaceuticals Inc";"GearPut 65%
+StarEffect 130%";14,80%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"80,40
+95,56
+139,15
+226,71";
+XS2270244960;Мода и стиль;18.12.2020;18.12.2023;"Tapestry Inc
+L Brands Inc
+Ralph Lauren Corp
+Capri Holdings LTD";GearPut 55%;10,76%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"29,33
+39,54
+101,34
+38,14";
+XS2270252633;Мода и стиль;18.12.2020;18.12.2023;"Tapestry Inc
+L Brands Inc
+Ralph Lauren Corp
+Capri Holdings LTD";GearPut 55%;10,00%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"29,33
+39,54
+101,34
+38,14";
+XS2270242758;Мода и стиль;18.12.2020;18.12.2023;"Tapestry Inc
+L Brands Inc
+Ralph Lauren Corp
+Capri Holdings LTD";GearPut 55%;11,92%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"29,33
+39,54
+101,34
+38,14";
+XS2270209971;;18.12.2020;26.12.2022;"Electronic Arts Inc
+EOG Resources Inc
+Canada Goose Holdings Inc
+Southwest Airlines Co";GearPut 65%;11,70%;нет;97%, далее -3% в кв.;2,0%;RUB;;"142,61
+51,77
+32,40
+46,03";
+CH0575768731;Индивидуальный запуск;21.12.2020;21.12.2022;"Canada Goose Holdings Inc
+Electronic Arts Inc
+EOG Resources Inc
+Southwest Airlines Co";GearPut 65%;11,15%;нет;97%, далее -3% в кв.;2,0%;USD;;"31,20
+134,68
+54,68
+46,80";
+XS2270196202;Индивидуальный запуск;22.12.2020;22.12.2023;"Qorvo Inc
+Lam Research Corp
+STMicroelectronics NV";GearPut 65%;8,16%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"163,27
+476,95
+30,19";
+XS2278611939;;22.12.2020;29.12.2023;"BP PLC
+Total SA
+ConocoPhillips
+Chevron Corp";GearPut 60%;10,10%;нет;100%;2,0%;USD;;"258,55
+34,89
+39,03
+84,36";
+XS2270252559;Здравоохранение;24.12.2020;18.12.2023;"DexCom Inc
+Horizon Therapeutics PLC
+Incyte Corp
+Qiagen";"GearPut 65%
+StarEffect 130%";16,22%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"347,71
+75,57
+81,30
+43,04";
+XS2270242592;Здравоохранение;24.12.2020;18.12.2023;"DexCom Inc
+Horizon Therapeutics PLC
+Incyte Corp
+Qiagen";"GearPut 65%
+StarEffect 130%";14,70%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"347,71
+75,57
+81,30
+43,04";
+XS2270244614;Здравоохранение;24.12.2020;18.12.2023;"DexCom Inc
+Horizon Therapeutics PLC
+Incyte Corp
+Qiagen";"GearPut 65%
+StarEffect 130%";18,16%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"347,71
+75,57
+81,30
+43,04";
+XS2270168847;;28.12.2020;28.12.2023;"Qorvo Inc
+Lam Research Corp
+STMicroelectronics NV";GearPut 65%;7,10%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"166,44
+476,10
+30,42";
+XS2270204154;"Авиалинии 
+Индивидуальный запуск";05.01.2021;26.12.2023;"Delta Air Lines Inc
+United Airlines Holdings Inc
+Southwest Airlines Co
+Alaska Air Group Inc";"GearPut 60%
+StarEffect 125%";8,15%;нет;97%, далее -3% в кв. до 70%;0,5%;USD;;"40,68
+44,74
+46,03
+50,35";
+CH0575768772;Мировые бренды;11.01.2021;11.01.2023;"Canada Goose Holdings Inc
+Electronic Arts Inc
+EOG Resources Inc
+Southwest Airlines Co";GearPut 60%;10,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"31,58
+139,85
+52,15
+46,39";
+XS2270220606;Игровая индустрия;11.01.2021;26.12.2023;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";14,10%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"88,46
+20,85
+197,4
+9,61";
+XS2265443486;Индивидуальный запуск;11.01.2021;02.01.2024;"The Home Depot Inc
+Humana Inc
+Qualcomm Inc
+Zoom Video Communications Inc";GearPut 65%;11,80%;"1-8 набл. - нет, 
+9-12 набл. - 65%";97%, далее -3% в кв. до 70%;1,0%;USD;;"270,04
+388,44
+146,34
+409";
+CH0588769536;Мировые бренды;12.01.2021;12.01.2023;"Canada Goose Holdings Inc
+Electronic Arts Inc
+EOG Resources Inc
+Southwest Airlines Co";GearPut 60%;10,00%;нет;97%, далее -3% в кв.;2,0%;USD;;"30,28
+140,72
+48,94
+46,12";
+XS2270183135;Мировые бренды;12.01.2021;11.01.2023;"Canada Goose Holdings Inc
+Electronic Arts Inc
+EOG Resources Inc
+Southwest Airlines Co";GearPut 60%;11,20%;нет;97%, далее -3% в кв.;2,0%;RUB;;"30,28
+140,72
+48,94
+46,12";
+CH0588769734;Индивидуальный запуск SAS;12.01.2021;12.01.2024;"Docusign Inc
+Twilio Inc
+Atlassian Corporation PLC
+VMWare Inc";"GearPut 65%
+StarEffect 130%";13,75%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"228,16
+350,50
+233,15
+139,42";
+CH0588769528;Мировые бренды;13.01.2021;13.01.2023;"Canada Goose Holdings Inc
+Electronic Arts Inc
+EOG Resources Inc
+Southwest Airlines Co";GearPut 60%;9,00%;нет;97%, далее -3% в кв.;2,0%;EUR;;"29,75
+140,7
+48,67
+46,15";
+XS2270184539;Игровая индустрия;13.01.2021;05.01.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";12,48%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"91,43
+18,83
+201,12
+9,73";
+XS2270187631;Игровая индустрия;13.01.2021;05.01.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";14,10%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"91,43
+18,83
+201,12
+9,73";
+XS2270184372;Игровая индустрия;13.01.2021;12.01.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";15,40%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"91,43
+18,83
+201,12
+9,73";
+XS2270165405;Индивидуальный запуск;13.01.2021;06.01.2023;"L Brands Inc
+Advanced Micro Devices Inc
+The Mosaic Co
+Western Digital Corp";GearPut 65%;12,20%;нет;97%, далее -3% в кв.;1,0%;USD;;"37,59
+90,62
+21,68
+48,29";
+XS2289423910;;21.01.2021;23.01.2023;"ArcelorMittal SA
+Skechers USA Inc
+Western Digital Corp
+AngloGold Ashanti-SPON ADR";GearPut 70%;15,10%;нет;98%, далее -2% в кв. с 2-го кв. до 88%;1,5%;RUB;;"20,245
+37,33
+50,37
+22,98";
+XS2277441205;"SaaS
+Индивидуальный запуск";21.01.2021;21.01.2024;"Twilio Inc
+Docusign Inc
+VMWare Inc
+Nutanix Inc";"GearPut 60%
+StarEffect 130%";7,60%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"389,0
+253,94
+134,09
+33,32";
+XS2289399516;Индивидуальный запуск;21.01.2021;29.01.2024;"Coca-Cola
+Kraft Heinz
+Tyson Foods Inc-CL A
+Beyond Meat Inc";"GearPut 65%
+StarEffect 130%";13,50%;65%;97%, далее -3% в кв.;2,0%;;;"48,95
+32,78
+65,90
+134,61";
+CH0593631291;Индивидуальный запуск;22.01.2021;29.01.2024;"Agnico Eagle Mines LTD
+Anglogold Ashanti-SPON ADR
+Kirkland Lake Gold LTD
+Newmont Corp";GearPut 60%;12,10%;70%;97%, далее -3% в кв.;2,0%;USD;;"70,69
+23,21
+40,17
+61,75";
+CH0593630939;Мировые бренды;25.01.2021;25.01.2023;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+Marvell Technology Group
+Pan American Silver Corp";GearPut 60%;11,10%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"47,32
+347,73
+51,31
+31,17";
+XS2277477902;Электромобили;29.01.2021;23.01.2024;"NIO Inc
+Denso Corp
+XPeng Inc
+Li Auto Inc";"GearPut 65%
+StarEffect 130%";11,20%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"60,87
+5739
+50,31
+34,70";
+CH0593631267;Мировые бренды;01.02.2021;01.02.2023;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+Marvell Technology Group
+Pan American Silver Corp";GearPut 60%;10,40%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"47,83
+349,22
+53,49
+30,83";
+XS2277442609;Электромобили;03.02.2021;29.01.2024;"NIO Inc
+Denso Corp
+XPeng Inc
+Li Auto Inc";"GearPut 65%
+StarEffect 130%";11,26%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"58,34
+6030,0
+54,31
+35,37";
+XS2289359130;Мировые бренды;04.02.2021;06.02.2023;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+Marvell Technology Group
+Pan American Silver Corp";GearPut 60%;11,28%;нет;97%, далее -3% в кв. до 82%;2,0%;RUB;;"43,84
+330,24
+52,18
+31,28";
+XS2277429259;SaaS;05.02.2021;29.01.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";17,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"255,15
+392,01
+33,52
+134,50";
+XS2277429507;SaaS;05.02.2021;29.01.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";15,60%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"255,15
+392,01
+33,52
+134,50";
+XS2277429333;SaaS;05.02.2021;29.01.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";18,30%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"255,15
+392,01
+33,52
+134,50";
+CH0593635813;Мировые бренды;08.02.2021;08.02.2023;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+Marvell Technology Group
+Pan American Silver Corp";GearPut 60%;10,20%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"43,84
+330,24
+52,18
+31,28";
+CH0593635821;Мировые бренды;08.02.2021;08.02.2023;"Foot Locker Inc
+LULULEMON ATHLETICA INC
+Marvell Technology Group
+Pan American Silver Corp";GearPut 60%;9,30%;нет;97%, далее -3% в кв. до 82%;2,0%;EUR;;"43,84
+330,24
+52,18
+31,28";
+XS2289397734;Электромобили;11.02.2021;05.02.2024;"NIO Inc
+Denso Corp
+XPeng Inc
+Li Auto Inc";"GearPut 65%
+StarEffect 130%";11,20%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"58,37
+5807
+50,16
+32,21";
+XS2289358751;Электромобили;11.02.2021;05.02.2024;"NIO Inc
+Denso Corp
+XPeng Inc
+Li Auto Inc";"GearPut 65%
+StarEffect 130%";10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"58,37
+5807
+50,16
+32,21";
+XS2289358918;Электромобили;11.02.2021;05.02.2024;"NIO Inc
+Denso Corp
+XPeng Inc
+Li Auto Inc";"GearPut 65%
+StarEffect 130%";12,10%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"58,37
+5807
+50,16
+32,21";
+XS2284567729;Газовые гиганты;11.02.2021;13.02.2023;"Equinor ASA
+Gazprom PJSC-SPON ADR
+ONEOK Inc
+Exxon Mobil Corp";GearPut 70%;10,00%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"156,6
+5,742
+42,46
+48,33";
+CH0595993210;Агропромышленный сектор;11.02.2021;12.02.2024;"The Mosaic Co
+Darling Ingridients Inc
+CF Industries Holdings Inc
+Corteva Inc";"GearPut 70%
+StarEffect 130%";15,90%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"27,45
+69,24
+43,17
+42,66";
+XS2289347044;Индивидуальный запуск;11.02.2021;05.02.2024;"Denso Corp
+Samsung SDI
+NIO Inc
+Li Auto Inc";"GearPut 55%
+StarEffect 130%";20,20%;60%;97%, далее -3% в кв. до 70%;1,0%;USD;;"5925
+745000
+57
+32,25";
+XS2289307097;Индивидуальный запуск;16.02.2021;16.02.2026;"Yandex NV-CLASS A
+Gazprom PJSC-SPON ADR
+Novolipetsk Steel PJSC-GDR
+Sberbank PJSC-SPONSORED ADR";GearPut 65%;14,96%;99%, далее -1% в кв. до 82%;99%, далее -1% в кв. до 82%;1,5%;EUR;;"0
+0
+0
+0";
+RU000A102QT6;Российские бренды;16.02.2021;22.02.2021;"ПАО ""ГМК ""Норильский никель""
+Сбербанк России
+Яндекс Н.В.
+ПАО “Полюс”";GearPut 65%;11,6% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"26236,0
+271,25
+5391,0
+14388";
+CH0596001278;Газовые гиганты;18.02.2021;20.02.2023;"Equinor ASA
+Gazprom PJSC-SPON ADR
+ONEOK Inc
+Exxon Mobil Corp";GearPut 70%;2,63%;нет;97%, далее -3% в кв. до 82%;2,0%;RUB;;"153,25
+6,016
+44,28
+49,84";
+CH0596001476;Агропромышленный сектор;18.02.2021;19.02.2024;"The Mosaic Co
+Darling Ingridients Inc
+CF Industries Holdings Inc
+Corteva Inc";"GearPut 70%
+StarEffect 130%";15,50%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"27,85
+70,29
+43,16
+43,54";
+CH0596001450;Агропромышленный сектор;18.02.2021;19.02.2024;"The Mosaic Co
+Darling Ingridients Inc
+CF Industries Holdings Inc
+Corteva Inc";"GearPut 70%
+StarEffect 130%";13,60%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"27,85
+70,29
+43,16
+43,54";
+CH0595997419;Агропромышленный сектор;18.02.2021;19.02.2024;"The Mosaic Co
+Darling Ingridients Inc
+CF Industries Holdings Inc
+Corteva Inc";"GearPut 70%
+StarEffect 130%";7,15%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"27,85
+70,29
+43,16
+43,54";
+CH0595997484;Агропромышленный сектор;18.02.2021;19.02.2024;"The Mosaic Co
+Darling Ingridients Inc
+CF Industries Holdings Inc
+Corteva Inc";"GearPut 70%
+StarEffect 130%";8,30%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"27,85
+70,29
+43,16
+43,54";
+CH0593639799;Газовые гиганты;22.02.2021;22.02.2023;"Equinor ASA
+Gazprom PJSC-SPON ADR
+ONEOK Inc
+Exxon Mobil Corp";GearPut 70%;10,20%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"153,25
+6,016
+44,28
+49,84";
+CH0593639815;Газовые гиганты;22.02.2021;22.02.2023;"Equinor ASA
+Gazprom PJSC-SPON ADR
+ONEOK Inc
+Exxon Mobil Corp";GearPut 70%;9,40%;нет;97%, далее -3% в кв. до 82%;2,0%;EUR;;"153,25
+6,016
+44,28
+49,84";
+CH0593639807;"Мировые бренды
+Индивидуальный запуск";22.02.2021;22.02.2024;"EQT Corp
+Lumentum Holdings Inc
+NRG Energy
+Tyson Foods Inc-CL A";GearPut 65%;10,60%;нет;97%, далее -3% в кв. до 70%;1,0%;USD;;"16,83
+92,55
+42,88
+65,34";
+XS2296456929;Агропромышленный сектор;24.02.2021;19.02.2024;"The Mosaic Co
+Darling Ingridients Inc
+CF Industries Holdings Inc
+Corteva Inc";"GearPut 70%
+StarEffect 130%";15,10%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"27,85
+70,29
+43,16
+43,54";
+XS2296441491;Индивидуальный запуск;24.02.2021;21.02.2024;"Denso Corp
+LG Chem Ltd
+NIO Inc
+Li Auto Inc";"GearPut 55%
+StarEffect 130%";20,20%;60%;97%, далее -3% в кв. до 70%;1,0%;USD;;"6969
+990000
+60,27
+31,99";
+XS2296426187;Мировые бренды;25.02.2021;27.02.2024;"EQT Corp
+Lumentum Holdings Inc
+NRG Energy
+Tyson Foods Inc-CL A";GearPut 65%;11,06%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"18,3
+91,42
+37,9
+67,63";
+CH0596644911;Рестораны;25.02.2021;25.02.2026;"Chipotle Mexican Grill Inc
+Darling Ingridients Inc
+Restaurant Brands International Inc
+Wingstop Inc";GearPut 60%;23,00%;100%;100%;3,0%;USD;;"1456,31
+66,7
+60,55
+139,51";
+XS2296425023;Российские GDR;25.02.2021;25.02.2026;"Sberbank PJSC-SPONSORED ADR
+Gazprom PJSC-SPON ADR
+Yandex NV-CLASS A";GearPut 65%;14,00%;99%, далее -1% в кв.;99%, далее -1% в кв. до 82%;3,0%;EUR;;"14,605
+6,076
+67,6";
+XS2296424489;Российские GDR;25.02.2021;25.02.2026;"Sberbank PJSC-SPONSORED ADR
+Gazprom PJSC-SPON ADR
+Yandex NV-CLASS A";GearPut 65%;16,00%;99%, далее -1% в кв.;99%, далее -1% в кв. до 82%;3,0%;USD;;"14,605
+6,076
+67,6";
+XS2296454478;Российские GDR;01.03.2021;26.02.2026;"Sberbank PJSC-SPONSORED ADR
+Gazprom PJSC-SPON ADR
+Yandex NV-CLASS A";GearPut 65%;18,00%;99%, далее -1% в кв.;99%, далее -1% в кв. до 82%;3,0%;RUB;;"14,605
+6,076
+67,6";
+CH0596645280;Индивидуальный запуск;01.03.2021;01.03.2023;"Twilio Inc
+Docusign Inc
+VMWare Inc
+Nutanix Inc";"GearPut 70%
+StarEffect 130%";8,20%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"0
+0
+0
+0";
+XS2284966699;Индивидуальный запуск;03.03.2021;04.03.2024;"EQT Corp
+Lumentum Holdings Inc
+NRG Energy
+Tyson Foods Inc-CL A";GearPut 65%;11,30%;нет;97%, далее -3% в кв. до 70%;1,0%;USD;;"0
+0
+0
+0";
+CH0596645504;Мировые бренды;04.03.2021;04.03.2024;"EQT Corp
+Lumentum Holdings Inc
+NRG Energy
+Tyson Foods Inc-CL A";GearPut 65%;11,30%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"18,15
+89,72
+37,57
+68,31";
+CH0596645512;Мировые бренды;04.03.2021;04.03.2024;"EQT Corp
+Lumentum Holdings Inc
+NRG Energy
+Tyson Foods Inc-CL A";GearPut 65%;10,80%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"18,15
+89,72
+37,57
+68,31";
+XS2296388239;Мировые бренды;04.03.2021;04.03.2024;"EQT Corp
+Lumentum Holdings Inc
+NRG Energy
+Tyson Foods Inc-CL A";GearPut 65%;11,82%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"18,15
+89,72
+37,57
+68,31";
+CH0596645652;Рестораны;04.03.2021;04.03.2026;"Chipotle Mexican Grill Inc
+Darden Restaurants Inc
+Restaurant Brands International Inc
+Wingstop Inc";GearPut 60%;20,00%;100%;100%;3,0%;USD;;"0
+0
+0
+0";
+CH0596645611;Рестораны;04.03.2021;04.03.2026;"Chipotle Mexican Grill Inc
+Darden Restaurants Inc
+Restaurant Brands International Inc
+Wingstop Inc";GearPut 60%;17,50%;100%;100%;3,0%;EUR;;"0
+0
+0
+0";
+XS2296388072;Рестораны;04.03.2021;04.03.2026;"Chipotle Mexican Grill Inc
+Darden Restaurants Inc
+Restaurant Brands International Inc
+Wingstop Inc";GearPut 60%;20,56%;100%;100%;3,0%;RUB;;"0
+0
+0
+0";
+XS2296430536;Индивидуальный запуск;04.03.2021;27.02.2024;"NIO Inc
+Denso Corp
+XPeng Inc
+Li Auto Inc";"GearPut 65%
+StarEffect 130%";10,90%;нет;97%, далее -3% в кв. до 70%;0,5%;USD;;"55,04
+6672
+40,88
+29,84";
+XS2309578867;Строительный бизнес;04.03.2021;13.03.2023;"Mohawk Industries Inc
+Newell Brands Inc
+Pultegroup Inc
+Vulcan Materials Co";GearPut 65%;9,12%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"175,69
+23,96
+43,78
+166";
+XS2253534338;Цифровая революция;05.03.2021;04.03.2024;"Micron Technology Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp";GearPut 65%;7% + 11% при досрочном погашении;нет;100%;1,0%;RUB;;"88,93
+68,07
+78,52
+498,46";
+CH0596647336;Европейский B2C;11.03.2021;11.03.2026;"Farfetch Ltd-CLASS A
+Prosus
+Spotify Technology SA
+Zalando SE";"GearPut 65%
+StarEffect 140%";20,00%;70%;97%, далее -3% в кв. до 70%;3,0%;USD;;"56,03
+98,28
+285,01
+82,04";
+XS2296366698;"Генная терапия
+Индивидуальный запуск";12.03.2021;04.03.2024;"Biomarin Pharmaceutical Inc
+Neurocrine Biosciences Inc
+Sarepta Therapeutics Inc
+Vertex Pharmaceuticals Inc";"GearPut 65%
+StarEffect 140%";8,20%;70%;97%, далее -3% в кв. до 70%, при Autocall возврат 110%;3,0%;USD;;"77,43
+109,51
+87,06
+212,55";
+CH0596647377;"Мировые бренды
+Индивидуальный запуск";12.03.2021;12.03.2024;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 65%;10,00%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"18,26
+23,84
+516,39
+129,75";
+RU000A102TE2;Российские бренды;15.03.2021;21.03.2024;"ПАО ""ГМК ""Норильский никель""
+Сбербанк России
+Яндекс Н.В.
+ПАО “Полюс”";GearPut 65%;12% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"28166,0
+281,66
+4705,0
+14056,5";
+XS2309585995;"Генная терапия
+Индивидуальный запуск";17.03.2021;11.03.2024;"Biomarin Pharmaceutical Inc
+Neurocrine Biosciences Inc
+Sarepta Therapeutics Inc
+Vertex Pharmaceuticals Inc";"GearPut 65%
+StarEffect 140%";9,20%;70%;91% с 4-го кв., далее -3% в кв. до 70%, при Autocall возврат 110%;3,0%;USD;;"76,35
+92,97
+82,16
+207,79";
+XS2285061094;Строительный бизнес;18.03.2021;20.03.2023;"Mohawk Industries Inc
+Newell Brands Inc
+Pultegroup Inc
+Vulcan Materials Co";GearPut 65%;9,04%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"185,78
+24,95
+48,25
+171,93";
+XS2309542673;Строительный бизнес;18.03.2021;20.03.2023;"Mohawk Industries Inc
+Newell Brands Inc
+Pultegroup Inc
+Vulcan Materials Co";GearPut 65%;8,02%;нет;97%, далее -3% в кв. до 82%;2,0%;EUR;;"185,78
+24,95
+48,25
+171,93";
+XS2310653774;Строительный бизнес;18.03.2021;20.03.2023;"Mohawk Industries Inc
+Newell Brands Inc
+Pultegroup Inc
+Vulcan Materials Co";GearPut 65%;10,10%;нет;97%, далее -3% в кв. до 82%;2,0%;RUB;;"185,78
+24,95
+48,25
+171,93";
+XS2310655985;Европейский B2C;18.03.2021;18.03.2026;"Farfetch Ltd-CLASS A
+Prosus
+Spotify Technology SA
+Zalando SE";"GearPut 65%
+StarEffect 140%";17,14%;70%;97%, далее -3% в кв. до 70%;3,0%;USD;;"59,84
+101,25
+286,96
+86,12";
+XS2310666321;Европейский B2C;18.03.2021;18.03.2026;"Farfetch Ltd-CLASS A
+Prosus
+Spotify Technology SA
+Zalando SE";"GearPut 65%
+StarEffect 140%";15,04%;70%;97%, далее -3% в кв. до 70%;3,0%;EUR;;"59,84
+101,25
+286,96
+86,12";
+XS2310658229;Европейский B2C;18.03.2021;18.03.2026;"Farfetch Ltd-CLASS A
+Prosus
+Spotify Technology SA
+Zalando SE";"GearPut 65%
+StarEffect 140%";19,32%;70%;97%, далее -3% в кв. до 70%;3,0%;RUB;;"59,84
+101,25
+286,96
+86,12";
+XS2309542913;Индивидуальный запуск;18.03.2021;18.03.2024;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 65%;8,40%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0
+0";
+XS2310659037;"Европейский B2C
+ Индивидуальный запуск";19.03.2021;19.03.2026;"Farfetch Ltd-CLASS A
+Prosus
+Spotify Technology SA
+Zalando SE";"GearPut 65%
+StarEffect 140%";17,14%;70%;97%, далее -3% в кв. до 70%;1,0%;USD;;"0
+0
+0
+0";
+XS2310651489;"Европейский B2C
+ Индивидуальный запуск";22.03.2021;23.03.2026;"Farfetch Ltd-CLASS A
+Prosus
+Spotify Technology SA
+Zalando SE";"GearPut 65%
+StarEffect 140%";15,10%;70%;97%, далее -3% в кв. до 70%;1,0%;EUR;;"0
+0
+0
+0";
+XS2309502297;Мировые бренды;25.03.2021;25.03.2024;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 65%;9,16%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+CH1103833682;Цифровая революция;25.03.2021;25.03.2024;"Micron Technology Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp";GearPut 65%;6% + 9,32% при досрочном погашении;нет;100%;2,0%;USD;;"0
+0
+0
+0";
+CH1100987846;"Цифровая революция
+Индивидуальны запуск";25.03.2021;25.03.2024;"Micron Technology Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp";GearPut 65%;5% + 8% при погашении;нет;100%;1,0%;CHF;;"0
+0
+0
+0";
+CH1103834458;Российские GDR;26.03.2021;26.03.2026;"Sberbank PJSC-SPONSORED ADR
+Gazprom PJSC-SPON ADR
+Yandex NV-CLASS A
+Lukoil PJSC-SPON ADR";GearPut 65%;20,50%;99%, далее -1% в кв.;99%, далее -1% в кв. до 82%;3,0%;USD;;"15,37
+5,998
+65,55
+81,14";
+XS2285122730;Индивидуальный запуск;26.03.2021;26.03.2024;"Anglo American PLC
+Barrick Gold Corp
+Freeport-McMoran Inc
+Vale SA-SP ADR";GearPut 65%;8,60%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0
+0";
+XS2285122813;Индивидуальный запуск;26.03.2021;26.03.2024;"Anglo American PLC
+Barrick Gold Corp
+Freeport-McMoran Inc
+Vale SA-SP ADR";GearPut 65%;9,40%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+RU000A102U60;"Индустрия развлечений
+С-1-4";29.03.2021;25.03.2024;"Walt Disney Co
+Spotify Technology SA
+Electronic Arts Inc
+Netflix Inc";GearPut 50%;13% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"186,91
+254,63
+130,03
+502,86";
+XS2321633997;Мировые бренды;01.04.2021;01.04.2024;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 65%;9,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+XS2321633211;Мировые бренды;01.04.2021;03.04.2024;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 65%;8,10%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0
+0";
+XS2320662617;Мировые бренды;01.04.2021;03.04.2024;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 65%;10,86%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0
+0";
+CH1103830977;Цифровая революция;01.04.2021;01.04.2024;"Micron Technology Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp";GearPut 65%;6% + 9,1% при досрочном погашении;нет;100%;2,0%;USD;;"0
+0
+0
+0";
+CH1103830985;Цифровая революция;01.04.2021;03.04.2024;"Micron Technology Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp";GearPut 65%;5% + 8,1% при досрочном погашении;нет;100%;2,0%;EUR;;"0
+0
+0
+0";
+XS2278426874;Цифровая революция;01.04.2021;08.04.2024;"Micron Technology Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+Nvidia Corp";GearPut 65%;7% + 11% при досрочном погашении;нет;100%;2,0%;RUB;;"0
+0
+0
+0";
+XS2322638144;Индивидуальный запуск;07.04.2021;09.04.2024;"Applied Materials Inc
+Western Digital Corp
+Advanced Micro Devices Inc
+ASM International NV";GearPut 65%;5% + 12% при досрочном погашении и финальном выше 100%;нет;100%;1,0%;EUR;;"0
+0
+0
+0";
+CH1100991707;Игровая индустрия;09.04.2021;09.04.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";13,80%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+RU000A102XB0;"Российские бренды
+С-1-5";12.04.2021;08.04.2024;"Сбербанк России
+Алроса
+Аэрофлот
+Газпром";GearPut 65%;11,6% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"283,72
+104,92
+66,86
+223,95";
+XS2321608619;Солнечная энергетика;14.04.2021;08.04.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";11,68%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+XS2278366286;"Мировые бренды
+Индивидуальный запуск";14.04.2021;17.04.2023;"Goodyear Tire Rubber Co
+Halliburton Co
+Netflix Inc
+Qualcomm Inc";GearPut 70%;11,88%;нет;97%, далее -3% в кв.;1,5%;RUB;;"17,72
+21,42
+546,99
+139,43";
+XS2321588167;Эра водорода;19.04.2021;15.04.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";13,30%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0
+0";
+XS2321585064;"Солнечная энергетика
+Индивидуальный запуск";19.04.2021;15.04.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";11,84%;нет;97%, далее -3% в кв. до 70%;1,5%;USD;;"0
+0
+0
+0";
+XS2321594058;Эра водорода;20.04.2021;15.04.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";11,84%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0";
+RU000A102ZX9;"Индустрия развлечений
+С-1-7";20.04.2021;16.04.2024;"Walt Disney Co
+Spotify Technology SA
+Electronic Arts Inc
+Netflix Inc";GearPut 50%;12.5% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"187,26
+292,02
+141,05
+546,54";
+XS2321584687;"Эра водорода
+Индивидуальный запуск";20.04.2021;15.04.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";11,84%;нет;97%, далее -3% в кв. до 70%;1,0%;USD;;"0
+0
+0";
+XS2321583879;Солнечная энергетика;21.04.2021;15.04.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";12,18%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"262,09
+153,13
+53,62
+66,22";
+XS2321589645;Солнечная энергетика;21.04.2021;15.04.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";11,14%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"262,09
+153,13
+53,62
+66,22";
+XS2321593910;Солнечная энергетика;21.04.2021;15.04.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";13,94%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"262,09
+153,13
+53,62
+66,22";
+XS2321591542;Игровая индустрия;22.04.2021;15.04.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";13,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"96,46
+18,79
+183,6
+10,68";
+XS2321586971;Игровая индустрия;22.04.2021;15.04.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";11,00%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"96,46
+18,79
+183,6
+10,68";
+XS2321580347;Игровая индустрия;22.04.2021;15.04.2024;"Activision Blizzard Inc
+HUYA Inc
+Take-Two Interactive Software Inc
+Zynga Inc";"GearPut 65%
+StarEffect 130%";15,00%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0
+0";
+XS2322757829;Мировые бренды;22.04.2021;24.04.2023;"ASM International NV
+Baidu Inc-SPON ADR
+Levi Strauss & Co-CLASS A
+L Brands Inc";GearPut 65%;10,40%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"264,5
+210,23
+27,58
+66,78";
+CH1110432460;SaaS;22.04.2021;22.04.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";14,20%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"233,2
+389,89
+28,48
+160,08";
+RU000A102ZW1;"Металлургия
+С-1-6";26.04.2021;22.04.2024;"Anglo American PLC
+Fresnillo PLC
+Glencore PLC
+BHP Group PLC";GearPut 65%;12% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"3094
+908,6
+292,5
+2186,5";
+RU000A103026;"Российские бренды
+С-1-8";26.04.2021;22.04.2024;"Сбербанк России
+Алроса
+Аэрофлот
+Газпром";GearPut 65%;11,6% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"292,21
+110,05
+64,50
+231,62";
+CH1100991764;"Мировые бренды
+Индивидуальный запуск";26.04.2021;26.04.2023;"EQT Corp
+Lumentum Holdings Inc
+Tyson Foods Inc-CL A";GearPut 65%;9,15%;нет;97%, далее -3% в кв. до 82%;1,5%;USD;;"0
+0
+0
+0";
+RU000A103034;"Полупроводники
+С-1-9";27.04.2021;23.04.2024;"Texas Instruments Inc
+Micron Technology Inc
+Advanced Micro Devices Inc
+Qualcomm Inc";GearPut 65%;12.4% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"188,82
+86,03
+82,76
+135,43";
+XS2329075761;Мировые бренды;29.04.2021;02.05.2023;"ASM International NV
+Baidu Inc-SPON ADR
+Levi Strauss & Co-CLASS A
+L Brands Inc";GearPut 65%;11,56%;нет;97%, далее -3% в кв. до 82%;2,0%;RUB;;"0
+0
+0
+0";
+XS2322845954;Мировые бренды;29.04.2021;02.05.2023;"ASM International NV
+Baidu Inc-SPON ADR
+Levi Strauss & Co-CLASS A
+L Brands Inc";GearPut 65%;9,00%;нет;97%, далее -3% в кв. до 82%;2,0%;EUR;;"0
+0
+0
+0";
+XS2322846176;Мировые бренды;29.04.2021;02.05.2023;"ASM International NV
+Baidu Inc-SPON ADR
+Levi Strauss & Co-CLASS A
+L Brands Inc";GearPut 65%;9,80%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"0
+0
+0
+0";
+CH1108507208;SaaS;29.04.2021;29.04.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";13,50%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+CH1108507216;SaaS;29.04.2021;29.04.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";11,10%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0
+0";
+XS2331078837;Эра водорода;05.05.2021;30.04.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";11,10%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0";
+XS2331079991;Эра водорода;05.05.2021;30.04.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";10,10%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0";
+XS2322922530;Мировые бренды;06.05.2021;09.05.2023;"ASM International NV
+Baidu Inc-SPON ADR
+Levi Strauss & Co-CLASS A
+L Brands Inc";GearPut 65%;9,72%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"0
+0
+0
+0";
+CH1111259151;SaaS;06.05.2021;06.05.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";13,00%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+XS2331084728;SaaS;07.05.2021;29.04.2024;"Docusign Inc
+Twilio Inc
+Nutanix Inc
+VMWare Inc";"GearPut 65%
+StarEffect 130%";14,60%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0
+0";
+XS2331059886;"Солнечная энергетика
+Индивидуальный запуск";10.05.2021;06.05.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";9,40%;нет;97%, далее -3% в кв. до 70%;0,5%;USD;;"0
+0
+0
+0";
+RU000A103042;"Индустрия развлечений
+С-1-10";12.05.2021;01.05.2024;"Walt Disney Co
+Spotify Technology SA
+Electronic Arts Inc
+Netflix Inc";GearPut 50%;11-12.5% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"0
+0
+0
+0";
+XS2331052873;"Солнечная энергетика
+Индивидуальный запуск";12.05.2021;07.05.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";"GearPut 65%
+StarEffect 130%";9,40%;нет;97%, далее -3% в кв. до 70%;1,0%;USD;;"0
+0
+0
+0";
+XS2331020599;Эра водорода;21.05.2021;20.05.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";10,56%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0";
+RU000A1030A7;"Индустрия развлечений
+Индивидуальный запуск
+С-1-13";05.05.2021;01.05.2024;"Walt Disney Co
+Spotify Technology SA
+Electronic Arts Inc
+Netflix Inc";GearPut 60%;12,4% + 0,01% в конце;нет;97%, далее -3% в кв.;1,0%;RUB;;"186,02
+252,12
+142,08
+513,47";
+RU000A103059;"Российские бренды
+С-1-11";18.05.2021;14.05.2024;"Роснефть
+Полиметалл
+АФК “Система”
+Интер РАО ЕЭС";GearPut 65%;11,4% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"545
+1669
+32,38
+5,065";
+RU000A1030B5;"Полупроводники
+С-1-14";19.05.2021;15.05.2024;"Texas Instruments Inc
+Micron Technology Inc
+Advanced Micro Devices Inc
+Qualcomm Inc";GearPut 65%;12% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"180,83
+80,39
+74,65
+129,80";
+XS2331012141;Здравоохранение;20.05.2021;22.05.2023;"Exact Sciences Corp
+Horizon Therapeutics Plc
+Incyte Corp
+Teladoc Health Inc";GearPut 70%;11,36%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"93,66
+87,74
+83,23
+132,71";
+XS2331005798;Здравоохранение;20.05.2021;22.05.2023;"Exact Sciences Corp
+Horizon Therapeutics Plc
+Incyte Corp
+Teladoc Health Inc";GearPut 70%;10,68%;нет;97%, далее -3% в кв. до 82%;2,0%;EUR;;"93,66
+87,74
+83,23
+132,71";
+XS2314198024;Здравоохранение;20.05.2021;29.05.2023;"Exact Sciences Corp
+Horizon Therapeutics Plc
+Incyte Corp
+Teladoc Health Inc";GearPut 70%;14,00%;нет;97%, далее -3% в кв. до 82%;2,0%;RUB;;"93,66
+87,74
+83,23
+132,71";
+CH1113401199;Кибербезопасность;20.05.2021;20.05.2024;"CroudStrike Holdings Inc
+Dynatrace Inc
+FireEye Inc
+ZScaler Inc";"GearPut 70%
+StarEffect 130%";13,55%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"183,76
+44,52
+19,51
+160,92";
+CH1113395110;Кибербезопасность;20.05.2021;20.05.2024;"CroudStrike Holdings Inc
+Dynatrace Inc
+FireEye Inc
+ZScaler Inc";"GearPut 70%
+StarEffect 130%";12,05%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"183,76
+44,52
+19,51
+160,92";
+XS2331011846;Кибербезопасность;25.05.2021;20.05.2024;"CroudStrike Holdings Inc
+Dynatrace Inc
+FireEye Inc
+ZScaler Inc";"GearPut 70%
+StarEffect 130%";15,80%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"183,76
+44,52
+19,51
+160,92";
+XS2338423978;"Эра водорода
+Индивидуальный запуск";25.05.2021;28.05.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";9,90%;нет;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0";
+XS2330994737;"Эра водорода
+Индивидуальный запуск";28.05.2021;28.05.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";11,00%;нет;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0";
+RU000A1032W7;"Яндекс
+С-1-16";24.05.2021;22.11.2021;Яндекс Н.В.;85%;15% + 0,01% в конце;нет;нет;1,0%;RUB;;4726,6;
+XS2338432375;"Эра водорода
+Индивидуальный запуск";26.05.2021;28.05.2024;"Ballard Power Systems Inc
+Bloom Energy Corp
+Plug Power Inc";"GearPut 65%
+StarEffect 130%";13,10%;нет;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0";
+CH1113401710;"Кибербезопасность
+Индивидуальный запуск";26.05.2021;27.05.2024;"CrowdStrike Holdings Inc
+Dynatrace Inc
+FireEye Inc
+ZScaler Inc";GearPut 70%;1,875%;нет;91%, далее -3% в кв. до 70% с 4-го кв.;2,0%;CHF;;"0
+0
+0
+0";
+CH1110436057;Мировые бренды;01.06.2021;01.06.2023;"Canada Goose Holdings Inc
+DexCom Inc
+The Mosaic Co
+Valero Energy Corp";GearPut 70%;10,60%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"39,32
+344,3
+34,95
+76,99";
+XS2341019607;Генная терапия;02.06.2021;28.05.2024;"Vertex Pharmaceuticals Inc
+Sarepta Therapeutics Inc
+BioMarin Pharmaceutical Inc
+Neurocrine Biosciences Inc";"GearPut 70%
+StarEffect 130%";12,10%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"216,61
+80,21
+79,12
+94,37";
+RU000A103091;"Вечные ценности
+С-1-12";31.05.2021;27.05.2024;"Алроса
+Полиметалл
+ПАО “Полюс”
+Fresnillo PLC";GearPut 65%;14-16% + 0,01% в конце;65%;97%, далее -3% в кв.;2,0%;RUB;;"0
+0
+0
+0";
+RU000A1034Z6;"Полупроводники
+С-1-17";01.06.2021;28.05.2024;"Texas Instruments Inc
+Micron Technology Inc
+Advanced Micro Devices Inc
+Qualcomm Inc";GearPut 65%;11,6-13% + 0,01% в конце;нет;97%, далее -3% в кв.;2,0%;RUB;;"0
+0
+0
+0";
+XS2340988299;Китайский интернет;03.06.2021;02.06.2026;"NetEase Inc
+GDS Holdings
+Weibo Corp
+Pinduoduo Inc";GearPut 60%;20,20%;99%, далее -1% в кв.;99%, далее -1% в кв. до 82%;3,0%;USD;;"0
+0
+0
+0";
+RU000A103505;"Российские бренды
+Индивидуальный запуск
+С-1-18";01.06.2021;16.05.2024;"Роснефть
+Полиметалл
+АФК “Система”
+Интер РАО ЕЭС";GearPut 50%;11,64-12,24% + 0,01% в конце;50%;97%, далее -3% в кв.;1,5%;RUB;;"0
+0
+0
+0";
+RU000A103513;"Полупроводники
+Индивидуальный запуск
+С-1-19";01.06.2021;16.05.2024;"Texas Instruments Inc
+Micron Technology Inc
+Advanced Micro Devices Inc
+Qualcomm Inc";GearPut 65%;11,76-12,36% + 0,01% в конце;нет;97%, далее -3% в кв.;1,5%;RUB;;"0
+0
+0
+0";
+CH1110436081;Мировые бренды;07.06.2021;07.06.2023;"Canada Goose Holdings Inc
+DexCom Inc
+The Mosaic Co
+Valero Energy Corp";GearPut 70%;9,80%;нет;97%, далее -3% в кв. до 82%;2,0%;USD;;"0
+0
+0
+0";
+CH1110436107;Мировые бренды;07.06.2021;07.06.2023;"Canada Goose Holdings Inc
+DexCom Inc
+The Mosaic Co
+Valero Energy Corp";GearPut 70%;9,00%;нет;97%, далее -3% в кв. до 82%;2,0%;EUR;;"0
+0
+0
+0";
+XS2314106274;Мировые бренды;10.06.2021;14.06.2023;"Canada Goose Holdings Inc
+DexCom Inc
+The Mosaic Co
+Valero Energy Corp";GearPut 70%;12,40%;нет;97%, далее -3% в кв. до 82%;2,0%;RUB;;"0
+0
+0
+0";
+CH1115512217;Генная терапия;04.06.2021;04.06.2024;"Vertex Pharmaceuticals Inc
+Sarepta Therapeutics Inc
+BioMarin Pharmaceutical Inc
+Neurocrine Biosciences Inc";"GearPut 70%
+StarEffect 130%";13,50%;70%;97%, далее -3% в кв. до 70%;2,0%;USD;;"0
+0
+0
+0";
+XS2340976799;Генная терапия;08.06.2021;04.06.2024;"Vertex Pharmaceuticals Inc
+Sarepta Therapeutics Inc
+BioMarin Pharmaceutical Inc
+Neurocrine Biosciences Inc";"GearPut 70%
+StarEffect 130%";11,70%;70%;97%, далее -3% в кв. до 70%;2,0%;EUR;;"0
+0
+0
+0";
+XS2340975551;Генная терапия;08.06.2021;04.06.2024;"Vertex Pharmaceuticals Inc
+Sarepta Therapeutics Inc
+BioMarin Pharmaceutical Inc
+Neurocrine Biosciences Inc";"GearPut 70%
+StarEffect 130%";15,10%;70%;97%, далее -3% в кв. до 70%;2,0%;RUB;;"0
+0
+0
+0";
+XS2340994180;"Солнечная энергетика
+Индивидуальный запуск";31.05.2021;31.05.2024;"Solaredge Technologies Inc
+Enphase Energy Inc
+Sunrun Inc
+Daqo New Energy Corp";GearPut 65%;11,80%;нет;97%, далее -3% в кв. до 70%;1,0%;EUR;;"0
+0
+0
+0";
