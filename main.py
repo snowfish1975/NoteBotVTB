@@ -53,7 +53,7 @@ def process_command(message):
                         start_curs = start_rates[row["CUR"]].value
                         end_curs = end_rates[row["CUR"]].value
                         cur_tax = max(float(end_curs - start_curs) * 0.13 / float(end_curs) * 100,0)
-                        s += f'\nКурс валюты изменился:\nс {start_curs} на дату запуска {row["START"]}\nдо {end_curs} на дату погашения {row["AUTOCALL_DATE"]}\n'
+                        s += f'\nКурс валюты изменился:\n      с {start_curs} на дату запуска {row["START"]}\n      до {end_curs} на дату погашения {row["AUTOCALL_DATE"]}\n'
                         if end_curs > start_curs:
                             s += f'Налог на переоценку составит *{round(cur_tax,2)}%* от суммы инвестиции.'
                         else:
