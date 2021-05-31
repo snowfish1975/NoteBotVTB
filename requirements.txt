@@ -1,4 +1,4 @@
-PyTelegramBotAPI==2.2.3
+PyTelegramBotAPI==3.7.3
 datetime
 pycbrf
 
