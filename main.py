@@ -73,12 +73,12 @@ def process_command(message):
 def RefreshBase():
     watches_list = []
     with open('watches.csv') as csvfile:
-        watches_reader = csv.DictReader(csvfile, delimiter=';')
+        watches_reader = csv.DictReader(csvfile, delimiter=';', encoding='latin-1')
         for row in watches_reader:
             watches_list.append(row)
 
     with open('notes.csv') as csvfile:
-        notes_reader = csv.DictReader(csvfile, delimiter=';')
+        notes_reader = csv.DictReader(csvfile, delimiter=';', encoding='latin-1')
         for row in notes_reader:
             for watch in watches_list:
                 if watch["ISIN"]==row["ISIN"]:
